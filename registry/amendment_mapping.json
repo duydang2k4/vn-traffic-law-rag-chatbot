@@ -1,0 +1,31 @@
+﻿{
+  "schema_version": 1,
+  "as_of": "2026-11-22",
+  "coverage": "incomplete",
+  "notice": "Quan hệ cấp văn bản đã đối chiếu nguồn chính thức. Chưa kiểm chứng từng sửa đổi, chưa dựng phiên bản quy định và không được dùng danh mục này để suy ra hiệu lực từng đoạn.",
+  "relations": [
+    {
+      "target_document": "nghi_dinh_151_2024_nd_cp_da_sua",
+      "amending_document": "nghi_dinh_236_2026_nd_cp",
+      "relation": "amends_and_supplements",
+      "general_effective_date": "2026-07-01",
+      "verification": "document_relation_verified",
+      "source_url": "https://vanban.chinhphu.vn/?docid=218618&pageid=27160",
+      "intermediate_amendments": ["184/2025/NĐ-CP"],
+      "provision_mapping_status": "local_docx_text_edits_mapped",
+      "text_edit_mapping": "registry/consolidation_edits.json"
+    },
+    {
+      "target_document": "nghi_dinh_168_2024_nd_cp",
+      "amending_document": "nghi_dinh_238_2026_nd_cp",
+      "relation": "amends_and_supplements",
+      "general_effective_date": "2026-08-15",
+      "verification": "document_relation_verified",
+      "source_url": "https://vanban.chinhphu.vn/?docid=218613&pageid=27160&typegroupid=4",
+      "provision_mapping_status": "local_docx_text_edits_mapped",
+      "text_edit_mapping": "registry/consolidation_edits.json",
+      "notes": "Có quy định với ngày áp dụng khác; không mặc định mọi sửa đổi đều áp dụng từ ngày hiệu lực chung."
+    }
+  ],
+  "verified_provision_versions": []
+}

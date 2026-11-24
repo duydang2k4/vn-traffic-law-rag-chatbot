@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-21",
+  "documents": [
+    {
+      "id": "nghi_dinh_151_2024_nd_cp_da_sua",
+      "number": "151/2024/NĐ-CP",
+      "title": "Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ",
+      "issued_date": "2024-11-15",
+      "effective_date": "2025-01-01",
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "nghị định",
+      "source_url": "https://vanban.chinhphu.vn/?classid=1&docid=211956&orggroupid=2&pageid=27160",
+      "raw_file": "data/raw/nghi_dinh_151_2024_nd_cp_da_sua.docx",
+      "sha256": "09d0881050a41c28072199fa3f8d8eed3f80036a47e124fc63187dcf1804e178",
+      "relations": [
+        "Được sửa đổi bởi 184/2025/NĐ-CP và 236/2026/NĐ-CP"
+      ],
+      "notes": null,
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-151-2024-nd-cp-43411/53258.htm"
+    },
+    {
+      "id": "nghi_dinh_168_2024_nd_cp",
+      "number": "168/2024/NĐ-CP",
+      "title": "Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+      "issued_date": "2024-12-26",
+      "effective_date": "2025-01-01",
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "nghị định",
+      "source_url": "https://vanban.chinhphu.vn/?classid=1&docid=212167&pageid=27160",
+      "raw_file": "data/raw/nghi_dinh_168_2024_nd_cp.docx",
+      "sha256": "4283ae5b2ebbc98b689924f9165881c019d546a4b3a965f0e213dfc98499d161",
+      "relations": [
+        "Được sửa đổi bởi 238/2026/NĐ-CP"
+      ],
+      "notes": null,
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-168-2024-nd-cp-43733.htm"
+    },
+    {
+      "id": "nghi_dinh_236_2026_nd_cp",
+      "number": "236/2026/NĐ-CP",
+      "title": "Sửa đổi, bổ sung một số điều của Nghị định 151/2024/NĐ-CP",
+      "issued_date": "2026-06-26",
+      "effective_date": "2026-07-01",
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "nghị định",
+      "source_url": "https://vanban.chinhphu.vn/?docid=218618&pageid=27160",
+      "raw_file": "data/raw/nghi_dinh_236_2026_nd_cp.docx",
+      "sha256": "cd1ff2f18d8e6082f7e99d65fec84b2f6eb174a78cecd644b26194c950c0e610",
+      "relations": [
+        "Sửa đổi 151/2024/NĐ-CP, đã được sửa đổi bởi 184/2025/NĐ-CP"
+      ],
+      "notes": null,
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-236-2026-nd-cp-469899.htm"
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp",
+      "number": "238/2026/NĐ-CP",
+      "title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "issued_date": "2026-06-26",
+      "effective_date": "2026-08-15",
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "nghị định",
+      "source_url": "https://vanban.chinhphu.vn/?classid=1&docid=218613&pageid=27160",
+      "raw_file": "data/raw/nghi_dinh_238_2026_nd_cp.docx",
+      "sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "relations": [
+        "Sửa đổi 168/2024/NĐ-CP"
+      ],
+      "notes": null,
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-238-2026-nd-cp-469913.htm"
+    },
+    {
+      "id": "nghi_dinh_94_2026_nd_cp",
+      "number": "94/2026/NĐ-CP",
+      "title": "Quy định về hoạt động đào tạo và sát hạch lái xe",
+      "issued_date": "2026-03-31",
+      "effective_date": "2026-07-01",
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "nghị định",
+      "source_url": "https://vanban.chinhphu.vn/?classid=1&docid=217390&pageid=27160",
+      "raw_file": "data/raw/nghi_dinh_94_2026_nd_cp.docx",
+      "sha256": "d3ae43f95ee38c4d97733111fbf4a332cebd151d0407b783d58723ee323b48e1",
+      "relations": [],
+      "notes": null,
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-94-2026-nd-cp-469245/63953.htm"
+    },
+    {
+      "id": "vbhn_144_2026_vbhn_lq_vpqh_da_sua",
+      "number": "144/2026/VBHN-LQ-VPQH",
+      "title": "Hợp nhất Luật Đường bộ",
+      "issued_date": "2026-09-23",
+      "effective_date": null,
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "văn bản hợp nhất",
+      "source_url": "https://congbao.chinhphu.vn/van-ban-dang-cong-bao/trang-31.htm",
+      "raw_file": "data/raw/vbhn_144_2026_vbhn_lq_vpqh_da_sua.docx",
+      "sha256": "f762172049037799f1bc4c11d7322f7854baac327bb0e98f8ba0db2c0a70b170",
+      "relations": [
+        "Hợp nhất 35/2024/QH15, 118/2025/QH15 và 24/2026/QH16; sửa đổi bởi 24/2026/QH16 có hiệu lực từ 2027-03-01"
+      ],
+      "notes": "Văn bản hợp nhất không tự xác định một ngày hiệu lực chung; xem hiệu lực của từng văn bản thành phần.",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-144-2026-vbhn-lq-vpqh-470557/68753.htm"
+    },
+    {
+      "id": "vbhn_27_vbhn_bxd",
+      "number": "27/VBHN-BXD",
+      "title": "Hợp nhất Thông tư quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ",
+      "issued_date": "2026-06-12",
+      "effective_date": null,
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "văn bản hợp nhất",
+      "source_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-27-vbhn-bxd-469765.htm",
+      "raw_file": "data/raw/vbhn_27_vbhn_bxd.docx",
+      "sha256": "f84c92343a86e4ad3a0d08da8b125ed05cf19e7f4653de48353acbf12124c9c1",
+      "relations": [
+        "Hợp nhất 14/2025/TT-BXD và 17/2026/TT-BXD"
+      ],
+      "notes": "Văn bản hợp nhất không tự xác định một ngày hiệu lực chung; xem hiệu lực của từng văn bản thành phần.",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-27-vbhn-bxd-469765.htm"
+    },
+    {
+      "id": "vbhn_55_vbhn_vpqh",
+      "number": "55/VBHN-VPQH",
+      "title": "Hợp nhất Luật Trật tự, an toàn giao thông đường bộ",
+      "issued_date": "2026-03-23",
+      "effective_date": null,
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "văn bản hợp nhất",
+      "source_url": "https://chinhphu.vn/?classid=0&docid=217295&pageid=27160",
+      "raw_file": "data/raw/vbhn_55_vbhn_vpqh.docx",
+      "sha256": "cc52a6e84d6bfb5dc1a0085559194775961663472e182adb990e4902cd1f94b3",
+      "relations": [
+        "Hợp nhất 36/2024/QH15 và 118/2025/QH15"
+      ],
+      "notes": "Văn bản hợp nhất không tự xác định một ngày hiệu lực chung; xem hiệu lực của từng văn bản thành phần.",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-55-vbhn-vpqh-469185.htm"
+    },
+    {
+      "id": "vbhn_65_2026_vbhn_nd_bxd",
+      "number": "65/2026/VBHN-NĐ-BXD",
+      "title": "Hợp nhất Nghị định quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ",
+      "issued_date": "2026-08-27",
+      "effective_date": null,
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "văn bản hợp nhất",
+      "source_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-65-2026-vbhn-nd-bxd-470364/68079.htm",
+      "raw_file": "data/raw/vbhn_65_2026_vbhn_nd_bxd.docx",
+      "sha256": "1a2d90e99cacf651909e29a3f17f65cf61a7f6767f36406e8791c87c41b0f559",
+      "relations": [
+        "Hợp nhất 165/2024/NĐ-CP, 243/2025/NĐ-CP và 241/2026/NĐ-CP"
+      ],
+      "notes": "Văn bản hợp nhất không tự xác định một ngày hiệu lực chung; xem hiệu lực của từng văn bản thành phần.",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-65-2026-vbhn-nd-bxd-470364/68079.htm"
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd",
+      "number": "74/2026/VBHN-TT-BXD",
+      "title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "issued_date": "2026-09-15",
+      "effective_date": null,
+      "legal_status": "chưa xác minh đầy đủ",
+      "status_as_of": "2026-11-21",
+      "document_kind": "văn bản hợp nhất",
+      "source_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-74-2026-vbhn-tt-bxd-470578/68818.htm",
+      "raw_file": "data/raw/vbhn_74_2026_vbhn_tt_bxd.docx",
+      "sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "relations": [
+        "Hợp nhất 38/2024/TT-BGTVT và 09/2025/TT-BXD"
+      ],
+      "notes": "Văn bản hợp nhất không tự xác định một ngày hiệu lực chung; xem hiệu lực của từng văn bản thành phần.",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-74-2026-vbhn-tt-bxd-470578/68818.htm"
+    }
+  ]
+}
