@@ -1,0 +1,2536 @@
+{
+  "schema_version": 1,
+  "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+  "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+  "caveats": [
+    "Phân cấp kế thừa bước 1, chưa xác minh; văn bản sửa đổi có thể nhận nhầm đoạn trích và phụ lục.",
+    "Hiệu lực từng quy định chưa được xác minh; ngày hiệu lực văn bản chỉ để tham khảo.",
+    "Ngữ cảnh cha là metadata, không thuộc danh sách khối nội dung."
+  ],
+  "chunks": [
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000001",
+      "group_key": "unstructured",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": null,
+      "clause": null,
+      "parent_context": [],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "unstructured",
+      "blocks": [
+        {
+          "position": 1,
+          "type": "table",
+          "text": "VĂN BẢN HỢP NHẤT Số:  74/2026/VBHN-TT-BXD\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc Hà Nội, ngày 15 tháng  9 năm 2026",
+          "unit_id": null,
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "VĂN BẢN HỢP NHẤT Số:  74/2026/VBHN-TT-BXD",
+              "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc Hà Nội, ngày 15 tháng  9 năm 2026"
+            ]
+          ]
+        },
+        {
+          "position": 2,
+          "type": "paragraph",
+          "text": " ",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 3,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 4,
+          "type": "paragraph",
+          "text": "THÔNG TƯ",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 5,
+          "type": "paragraph",
+          "text": "Quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 6,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 7,
+          "type": "paragraph",
+          "text": "Thông tư số 38/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: ",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 8,
+          "type": "paragraph",
+          "text": "Thông tư số 09/2025/TT-BXD ngày 13 tháng 6 năm 2025 của Bộ trưởng Bộ Xây dựng sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương 02 cấp và phân cấp cho chính quyền địa phương, có hiệu lực kể từ ngày 01 tháng 7 năm 2025.",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 9,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 10,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Đường bộ ngày 27 tháng 6 năm 2024;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 11,
+          "type": "paragraph",
+          "text": "Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 12,
+          "type": "paragraph",
+          "text": "Theo đề nghị của Vụ trưởng Vụ Kết cấu hạ tầng giao thông và Cục trưởng Cục đường bộ Việt Nam;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 13,
+          "type": "paragraph",
+          "text": "Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ.",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 14,
+          "type": "paragraph",
+          "text": "Chương I",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "automatic_numbering": false
+        },
+        {
+          "position": 15,
+          "type": "paragraph",
+          "text": "QUY ĐỊNH CHUNG",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000002",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000016",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000016",
+        "number": "1",
+        "heading": "Điều 1. Phạm vi điều chỉnh"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000016",
+          "type": "article",
+          "number": "1",
+          "heading": "Điều 1. Phạm vi điều chỉnh"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 16,
+          "type": "paragraph",
+          "text": "Điều 1. Phạm vi điều chỉnh",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000016",
+          "automatic_numbering": false
+        },
+        {
+          "position": 17,
+          "type": "paragraph",
+          "text": "Thông tư này quy định về tốc độ thiết kế của đường bộ; tốc độ khai thác và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng khi tham gia giao thông trên đường bộ, trừ xe ưu tiên đang đi làm nhiệm vụ theo quy định của pháp luật.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000016",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000003",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000018",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000018",
+        "number": "2",
+        "heading": "Điều 2. Đối tượng áp dụng"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000018",
+          "type": "article",
+          "number": "2",
+          "heading": "Điều 2. Đối tượng áp dụng"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 18,
+          "type": "paragraph",
+          "text": "Điều 2. Đối tượng áp dụng",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000018",
+          "automatic_numbering": false
+        },
+        {
+          "position": 19,
+          "type": "paragraph",
+          "text": "Thông tư này áp dụng đối với người lái xe, người điều khiển xe máy chuyên dùng và tổ chức, cá nhân liên quan đến quản lý và thực hiện các quy định về tốc độ thiết kế, tốc độ khai thác của đường bộ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng khi tham gia giao thông trên đường bộ.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000018",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000004",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 20,
+          "type": "paragraph",
+          "text": "Điều 3. Giải thích từ ngữ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "automatic_numbering": false
+        },
+        {
+          "position": 21,
+          "type": "paragraph",
+          "text": "Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000005",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000022",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000022",
+        "number": "1",
+        "heading": "1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, được xác định bằng biển báo “Bắt đầu khu đông dân cư” và biển báo “Hết khu đông dân cư”."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 22,
+          "type": "paragraph",
+          "text": "1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, được xác định bằng biển báo “Bắt đầu khu đông dân cư” và biển báo “Hết khu đông dân cư”.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000022",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000006",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000023",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000023",
+        "number": "2",
+        "heading": "2. Đường đôi là đường có chiều đi và chiều về được phân biệt bằng dải phân cách giữa."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 23,
+          "type": "paragraph",
+          "text": "2. Đường đôi là đường có chiều đi và chiều về được phân biệt bằng dải phân cách giữa.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000023",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000007",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000024",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000024",
+        "number": "3",
+        "heading": "3. Đường một chiều là đường chỉ cho đi một chiều."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 24,
+          "type": "paragraph",
+          "text": "3. Đường một chiều là đường chỉ cho đi một chiều.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000024",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000008",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000025",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000025",
+        "number": "4",
+        "heading": "4. Đường hai chiều là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách giữa."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 25,
+          "type": "paragraph",
+          "text": "4. Đường hai chiều là đường dùng chung cho cả chiều đi và về trên cùng một phần đường xe chạy mà không có dải phân cách giữa.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000025",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000009",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000026",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000026",
+        "number": "5",
+        "heading": "5. Trọng tải là khối lượng hàng hóa chuyên chở cho phép, được ghi trên Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện giao thông cơ giới đường bộ, Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu hoặc Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường kiểu loại ô tô sản xuất, lắp ráp."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 26,
+          "type": "paragraph",
+          "text": "5. Trọng tải là khối lượng hàng hóa chuyên chở cho phép, được ghi trên Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện giao thông cơ giới đường bộ, Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu hoặc Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường kiểu loại ô tô sản xuất, lắp ráp.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000026",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000010",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000027",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000027",
+        "number": "6",
+        "heading": "6. Tốc độ khai thác tối đa là giá trị tốc độ lớn nhất cho phép phương tiện tham gia giao thông trên đường bộ bảo đảm an toàn giao thông và khai thác hiệu quả tuyến đường."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 27,
+          "type": "paragraph",
+          "text": "6. Tốc độ khai thác tối đa là giá trị tốc độ lớn nhất cho phép phương tiện tham gia giao thông trên đường bộ bảo đảm an toàn giao thông và khai thác hiệu quả tuyến đường.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000027",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000011",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000028",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000028",
+        "number": "7",
+        "heading": "7. Tốc độ khai thác tối thiểu là giá trị tốc độ nhỏ nhất cho phép phương tiện tham gia giao thông trên đường bộ bảo đảm an toàn giao thông và khai thác hiệu quả tuyến đường."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 28,
+          "type": "paragraph",
+          "text": "7. Tốc độ khai thác tối thiểu là giá trị tốc độ nhỏ nhất cho phép phương tiện tham gia giao thông trên đường bộ bảo đảm an toàn giao thông và khai thác hiệu quả tuyến đường.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000028",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000012",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000029",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000029",
+        "number": "8",
+        "heading": "8. Khoảng cách an toàn là cự ly tối thiểu giữa phương tiện phía sau với phương tiện đang di chuyển liền trước, cùng làn đường, bảo đảm tránh xảy ra va chạm trong trường hợp phương tiện phía trước đột ngột giảm tốc độ hoặc dừng lại."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 29,
+          "type": "paragraph",
+          "text": "8. Khoảng cách an toàn là cự ly tối thiểu giữa phương tiện phía sau với phương tiện đang di chuyển liền trước, cùng làn đường, bảo đảm tránh xảy ra va chạm trong trường hợp phương tiện phía trước đột ngột giảm tốc độ hoặc dừng lại.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000029",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000013",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000030",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+        "number": "3",
+        "heading": "Điều 3. Giải thích từ ngữ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000030",
+        "number": "9",
+        "heading": "9. Tốc độ lưu hành là giá trị tốc độ của phương tiện tại thời điểm tham gia giao thông trên đường bộ."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000020",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Giải thích từ ngữ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 30,
+          "type": "paragraph",
+          "text": "9. Tốc độ lưu hành là giá trị tốc độ của phương tiện tại thời điểm tham gia giao thông trên đường bộ.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000030",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000014",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+        "number": "4",
+        "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+          "type": "article",
+          "number": "4",
+          "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 31,
+          "type": "paragraph",
+          "text": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000015",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000032",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+        "number": "4",
+        "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000032",
+        "number": "1",
+        "heading": "1. Khi tham gia giao thông trên đường bộ, người lái xe, người điều khiển xe máy chuyên dùng phải chấp hành quy định về tốc độ khai thác và khoảng cách an toàn theo quy định tại Điều 12 Luật Trật tự, an toàn giao thông đường bộ."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+          "type": "article",
+          "number": "4",
+          "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 32,
+          "type": "paragraph",
+          "text": "1. Khi tham gia giao thông trên đường bộ, người lái xe, người điều khiển xe máy chuyên dùng phải chấp hành quy định về tốc độ khai thác và khoảng cách an toàn theo quy định tại Điều 12 Luật Trật tự, an toàn giao thông đường bộ.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000032",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000016",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000033",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+        "number": "4",
+        "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000033",
+        "number": "2",
+        "heading": "2. Tại những đoạn đường không bố trí biển báo tốc độ khai thác tối đa, không bố trí biển báo khoảng cách an toàn giữa hai xe, người điều khiển phương tiện tham gia giao thông phải thực hiện theo quy định tại Điều 6, Điều 7, Điều 8 và Điều 11 Thông tư này."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000014",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000031",
+          "type": "article",
+          "number": "4",
+          "heading": "Điều 4. Nguyên tắc chấp hành quy định về tốc độ khai thác và khoảng cách an toàn khi điều khiển phương tiện trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 33,
+          "type": "paragraph",
+          "text": "2. Tại những đoạn đường không bố trí biển báo tốc độ khai thác tối đa, không bố trí biển báo khoảng cách an toàn giữa hai xe, người điều khiển phương tiện tham gia giao thông phải thực hiện theo quy định tại Điều 6, Điều 7, Điều 8 và Điều 11 Thông tư này.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000033",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000017",
+      "group_key": "unstructured",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": null,
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "unstructured",
+      "blocks": [
+        {
+          "position": 34,
+          "type": "paragraph",
+          "text": "Chương II",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "automatic_numbering": false
+        },
+        {
+          "position": 35,
+          "type": "paragraph",
+          "text": "TỐC ĐỘ THIẾT KẾ CỦA ĐƯỜNG BỘ; TỐC ĐỘ KHAI THÁC CỦA ĐƯỜNG BỘ, KHOẢNG CÁCH AN TOÀN CỦA XE CƠ GIỚI, XE MÁY CHUYÊN DÙNG THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000018",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 36,
+          "type": "paragraph",
+          "text": "Điều 5. Tốc độ thiết kế của đường bộ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000019",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000037",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000037",
+        "number": "1",
+        "heading": "1. Tốc độ thiết kế của đường bộ là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ. Tốc độ thiết kế của đường bộ được xác định trong giai đoạn đầu tư xây dựng, nâng cấp, cải tạo đường bộ nhằm bảo đảm cho phương tiện di chuyển an toàn; được quyết định theo cấp kỹ thuật của đường bộ và điều kiện địa hình."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 37,
+          "type": "paragraph",
+          "text": "1. Tốc độ thiết kế của đường bộ là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ. Tốc độ thiết kế của đường bộ được xác định trong giai đoạn đầu tư xây dựng, nâng cấp, cải tạo đường bộ nhằm bảo đảm cho phương tiện di chuyển an toàn; được quyết định theo cấp kỹ thuật của đường bộ và điều kiện địa hình.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000037",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000020",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000038",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000038",
+        "number": "2",
+        "heading": "2. Tốc độ thiết kế đường bộ cao tốc là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ cao tốc, được xác định theo cấp đường cao tốc. Khi thiết kế đường bộ cao tốc có thể áp dụng tốc độ thiết kế khác nhau theo từng đoạn nhưng phải bảo đảm các yêu cầu về chiều dài đoạn chuyển tiếp và tốc độ thiết kế trung gian giữa các đoạn. Tốc độ thiết kế đường bộ cao tốc được xác định theo Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc QCVN 115:2024/BGTVT."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 38,
+          "type": "paragraph",
+          "text": "2. Tốc độ thiết kế đường bộ cao tốc là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ cao tốc, được xác định theo cấp đường cao tốc. Khi thiết kế đường bộ cao tốc có thể áp dụng tốc độ thiết kế khác nhau theo từng đoạn nhưng phải bảo đảm các yêu cầu về chiều dài đoạn chuyển tiếp và tốc độ thiết kế trung gian giữa các đoạn. Tốc độ thiết kế đường bộ cao tốc được xác định theo Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc QCVN 115:2024/BGTVT.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000038",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000021",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000039",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000039",
+        "number": "3",
+        "heading": "3. Tốc độ thiết kế đường bộ được xác định theo Tiêu chuẩn quốc gia TCVN 4054: 2005 Đường ô tô - Yêu cầu thiết kế."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 39,
+          "type": "paragraph",
+          "text": "3. Tốc độ thiết kế đường bộ được xác định theo Tiêu chuẩn quốc gia TCVN 4054: 2005 Đường ô tô - Yêu cầu thiết kế.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000039",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000022",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000040",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000040",
+        "number": "4",
+        "heading": "4. Tốc độ thiết kế đường bộ trong phạm vi đô thị được xác định theo Quy chuẩn kỹ thuật quốc gia về hệ thống công trình hạ tầng kỹ thuật QCVN 07-4:2023/BXD."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 40,
+          "type": "paragraph",
+          "text": "4. Tốc độ thiết kế đường bộ trong phạm vi đô thị được xác định theo Quy chuẩn kỹ thuật quốc gia về hệ thống công trình hạ tầng kỹ thuật QCVN 07-4:2023/BXD.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000040",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000023",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000041",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+        "number": "5",
+        "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000041",
+        "number": "5",
+        "heading": "5. Tốc độ thiết kế đường giao thông nông thôn được xác định theo Tiêu chuẩn quốc gia TCVN 10380:2014 Đường giao thông nông thôn - Yêu cầu thiết kế."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000036",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Tốc độ thiết kế của đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 41,
+          "type": "paragraph",
+          "text": "5. Tốc độ thiết kế đường giao thông nông thôn được xác định theo Tiêu chuẩn quốc gia TCVN 10380:2014 Đường giao thông nông thôn - Yêu cầu thiết kế.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000041",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000024",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+        "number": "6",
+        "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+          "type": "article",
+          "number": "6",
+          "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 42,
+          "type": "paragraph",
+          "text": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000025",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000043",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+        "number": "6",
+        "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000043",
+        "number": "1",
+        "heading": "1. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ trong khu vực đông dân cư"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+          "type": "article",
+          "number": "6",
+          "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 43,
+          "type": "paragraph",
+          "text": "1. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ trong khu vực đông dân cư",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000043",
+          "automatic_numbering": false
+        },
+        {
+          "position": 44,
+          "type": "paragraph",
+          "text": "Bảng 1",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000043",
+          "automatic_numbering": false
+        },
+        {
+          "position": 45,
+          "type": "table",
+          "text": "Loại xe cơ giới đường bộ\tTốc độ khai thác tối đa (km/h)\n\tĐường đôi; đường một chiều có từ hai làn xe cơ giới trở lên\tĐường hai chiều; đường một chiều có một làn xe cơ giới\nCác loại xe cơ giới, trừ các xe được quy định tại Điều 7 và Điều 8 Thông tư này\t60\t50",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000043",
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "Loại xe cơ giới đường bộ",
+              "Tốc độ khai thác tối đa (km/h)"
+            ],
+            [
+              "",
+              "Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên",
+              "Đường hai chiều; đường một chiều có một làn xe cơ giới"
+            ],
+            [
+              "Các loại xe cơ giới, trừ các xe được quy định tại Điều 7 và Điều 8 Thông tư này",
+              "60",
+              "50"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000026",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000046",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+        "number": "6",
+        "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000046",
+        "number": "2",
+        "heading": "2. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ ngoài khu vực đông dân cư"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000042",
+          "type": "article",
+          "number": "6",
+          "heading": "Điều 6. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 46,
+          "type": "paragraph",
+          "text": "2. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ ngoài khu vực đông dân cư",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000046",
+          "automatic_numbering": false
+        },
+        {
+          "position": 47,
+          "type": "paragraph",
+          "text": "Bảng 2",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000046",
+          "automatic_numbering": false
+        },
+        {
+          "position": 48,
+          "type": "table",
+          "text": "Loại xe cơ giới đường bộ\tTốc độ khai thác tối đa (km/h)\n\tĐường đôi; đường một chiều có từ hai làn xe cơ giới trở lên\tĐường hai chiều; đường một chiều có một làn xe cơ giới\nXe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn\t90\t80\nXe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc)\t80\t70\nXe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)\t70\t60\nÔ tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc)\t60\t50",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000046",
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "Loại xe cơ giới đường bộ",
+              "Tốc độ khai thác tối đa (km/h)"
+            ],
+            [
+              "",
+              "Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên",
+              "Đường hai chiều; đường một chiều có một làn xe cơ giới"
+            ],
+            [
+              "Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn",
+              "90",
+              "80"
+            ],
+            [
+              "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc)",
+              "80",
+              "70"
+            ],
+            [
+              "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)",
+              "70",
+              "60"
+            ],
+            [
+              "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc)",
+              "60",
+              "50"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000027",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000049",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000049",
+        "number": "7",
+        "heading": "Điều 7. Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000049",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 49,
+          "type": "paragraph",
+          "text": "Điều 7. Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc)",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000049",
+          "automatic_numbering": false
+        },
+        {
+          "position": 50,
+          "type": "paragraph",
+          "text": "Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự khi tham gia giao thông, tốc độ khai thác tối đa là 40 km/h.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000049",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000028",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+        "number": "8",
+        "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 51,
+          "type": "paragraph",
+          "text": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000029",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000052",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+        "number": "8",
+        "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000052",
+        "number": "1",
+        "heading": "1. Xe chở người bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 30 km/h."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 52,
+          "type": "paragraph",
+          "text": "1. Xe chở người bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 30 km/h.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000052",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000030",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000053",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+        "number": "8",
+        "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000053",
+        "number": "2",
+        "heading": "2. Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 50 km/h."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000051",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Tốc độ khai thác tối đa cho phép đối với xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ tham gia giao thông trên đường bộ (trừ đường cao tốc)"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 53,
+          "type": "paragraph",
+          "text": "2. Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 50 km/h.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000053",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000031",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+        "number": "9",
+        "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 54,
+          "type": "paragraph",
+          "text": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000032",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000055",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+        "number": "9",
+        "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000055",
+        "number": "1",
+        "heading": "1. Đường cao tốc phải được đặt biển báo tốc độ khai thác tối đa, tốc độ khai thác tối thiểu."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 55,
+          "type": "paragraph",
+          "text": "1. Đường cao tốc phải được đặt biển báo tốc độ khai thác tối đa, tốc độ khai thác tối thiểu.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000055",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000033",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000056",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+        "number": "9",
+        "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000056",
+        "number": "2",
+        "heading": "2. Tốc độ khai thác tối đa cho phép trên đường cao tốc là 120 km/h."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 56,
+          "type": "paragraph",
+          "text": "2. Tốc độ khai thác tối đa cho phép trên đường cao tốc là 120 km/h.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000056",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000034",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000057",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+        "number": "9",
+        "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000057",
+        "number": "3",
+        "heading": "3. Tốc độ khai thác tối thiểu cho phép trên đường cao tốc là 60 km/h. Trường hợp đường cao tốc có tốc độ thiết kế 60 km/h thì tốc độ khai thác tối thiểu thực hiện theo phương án tổ chức giao thông được cấp có thẩm quyền phê duyệt."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 57,
+          "type": "paragraph",
+          "text": "3. Tốc độ khai thác tối thiểu cho phép trên đường cao tốc là 60 km/h. Trường hợp đường cao tốc có tốc độ thiết kế 60 km/h thì tốc độ khai thác tối thiểu thực hiện theo phương án tổ chức giao thông được cấp có thẩm quyền phê duyệt.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000057",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000035",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000058",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+        "number": "9",
+        "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000058",
+        "number": "4",
+        "heading": "4. Trị số tốc độ khai thác tối đa, tối thiểu cho phép trên đường cao tốc, kể cả các đường nhánh ra, vào đường cao tốc được xác định trong phương án tổ chức giao thông được cấp có thẩm quyền phê duyệt."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000054",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Tốc độ khai thác tối đa, tốc độ khai thác tối thiểu cho phép đối với các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 58,
+          "type": "paragraph",
+          "text": "4. Trị số tốc độ khai thác tối đa, tối thiểu cho phép trên đường cao tốc, kể cả các đường nhánh ra, vào đường cao tốc được xác định trong phương án tổ chức giao thông được cấp có thẩm quyền phê duyệt.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000058",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000036",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+        "number": "10",
+        "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 59,
+          "type": "paragraph",
+          "text": "Điều 10. Đặt biển báo tốc độ khai thác",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000037",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000060",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+        "number": "10",
+        "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000060",
+        "number": "1",
+        "heading": "1. Việc đặt biển báo tốc độ khai thác thực hiện theo quy định của pháp luật về báo hiệu đường bộ và phải căn cứ vào điều kiện thực tế của đoạn tuyến, tuyến đường về: kết cấu hạ tầng giao thông đường bộ, lưu lượng, loại phương tiện và thời gian trong ngày."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 60,
+          "type": "paragraph",
+          "text": "1. Việc đặt biển báo tốc độ khai thác thực hiện theo quy định của pháp luật về báo hiệu đường bộ và phải căn cứ vào điều kiện thực tế của đoạn tuyến, tuyến đường về: kết cấu hạ tầng giao thông đường bộ, lưu lượng, loại phương tiện và thời gian trong ngày.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000060",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000038",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000061",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+        "number": "10",
+        "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000061",
+        "number": "2",
+        "heading": "2. Cơ quan có thẩm quyền quy định tại khoản 3 Điều này quyết định đặt biển báo hiệu các trường hợp dưới đây:"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 61,
+          "type": "paragraph",
+          "text": "2. Cơ quan có thẩm quyền quy định tại khoản 3 Điều này quyết định đặt biển báo hiệu các trường hợp dưới đây:",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000061",
+          "automatic_numbering": false
+        },
+        {
+          "position": 62,
+          "type": "paragraph",
+          "text": "a) Đối với đường đôi, đặt biển báo tốc độ khai thác tối đa riêng cho từng chiều đường;",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000062",
+          "automatic_numbering": false
+        },
+        {
+          "position": 63,
+          "type": "paragraph",
+          "text": "b) Đặt biển báo tốc độ khai thác tối đa cho một khoảng thời gian trong ngày (biển phụ, biển điện tử);",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000063",
+          "automatic_numbering": false
+        },
+        {
+          "position": 64,
+          "type": "paragraph",
+          "text": "c) Đặt biển báo tốc độ khai thác tối đa riêng đối với các loại phương tiện có nguy cơ mất an toàn giao thông cao;",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000064",
+          "automatic_numbering": false
+        },
+        {
+          "position": 65,
+          "type": "paragraph",
+          "text": "d) Đặt biển báo tốc độ khai thác trong trường hợp quy định tại khoản 4 Điều này.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000065",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000039",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000066",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+        "number": "10",
+        "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000066",
+        "number": "3",
+        "heading": "3. Cơ quan có thẩm quyền quyết định đặt biển báo đối với các trường hợp quy định tại khoản 2 Điều này, bao gồm:"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 66,
+          "type": "paragraph",
+          "text": "3. Cơ quan có thẩm quyền quyết định đặt biển báo đối với các trường hợp quy định tại khoản 2 Điều này, bao gồm:",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000066",
+          "automatic_numbering": false
+        },
+        {
+          "position": 67,
+          "type": "paragraph",
+          "text": "a) Cục Đường bộ Việt Nam đối với đường cao tốc được Bộ Xây dựng giao quản lý; đường cao tốc do doanh nghiệp được Nhà nước giao quản lý, vận hành, khai thác; hệ thống quốc lộ và đường khác thuộc phạm vi quản lý của Bộ Xây dựng;",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000067",
+          "automatic_numbering": false
+        },
+        {
+          "position": 68,
+          "type": "paragraph",
+          "text": "b) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương đối với đường cao tốc, quốc lộ, đường tỉnh, đường xã, đường thôn, đường đô thị và đường chuyên dùng có hoạt động giao thông công cộng thuộc phạm vi quản lý.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000068",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000040",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000069",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+        "number": "10",
+        "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000069",
+        "number": "4",
+        "heading": "4. Cơ quan quản lý đường bộ có thẩm quyền quy định tại khoản 3 Điều này chủ trì, phối hợp với lực lượng cảnh sát giao thông trên tuyến, Ủy ban nhân cấp xã nơi có đoạn đường cần đặt biển báo tốc độ cho phép để xem xét, quyết định tốc độ khai thác cho phép và tổ chức thực hiện đặt biển báo tốc độ trong các trường hợp sau:"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000059",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Đặt biển báo tốc độ khai thác"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 69,
+          "type": "paragraph",
+          "text": "4. Cơ quan quản lý đường bộ có thẩm quyền quy định tại khoản 3 Điều này chủ trì, phối hợp với lực lượng cảnh sát giao thông trên tuyến, Ủy ban nhân cấp xã nơi có đoạn đường cần đặt biển báo tốc độ cho phép để xem xét, quyết định tốc độ khai thác cho phép và tổ chức thực hiện đặt biển báo tốc độ trong các trường hợp sau:",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000069",
+          "automatic_numbering": false
+        },
+        {
+          "position": 70,
+          "type": "paragraph",
+          "text": "a) Đường bộ đang khai thác nằm trong khu vực đông dân cư có điều kiện bất lợi (đường một chiều hoặc đường hai chiều có tổng bề rộng phần xe chạy nhỏ hơn 3,0m và tập trung công trình hạ tầng liên tiếp, sát mép phần xe chạy, tầm nhìn hạn chế).",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000070",
+          "automatic_numbering": false
+        },
+        {
+          "position": 71,
+          "type": "paragraph",
+          "text": "b) Đường bộ đang khai thác nằm ngoài khu vực đông dân cư thuộc các đoạn đường cấp IV, cấp V, cấp VI và các đoạn đường theo cấp kỹ thuật quy định tại điểm d khoản 2 Điều 10 Luật Đường bộ, có điều kiện bất lợi, tiềm ẩn nguy cơ xảy ra mất an toàn giao thông (bán kính đường cong nhỏ, đường cong liên tiếp, độ dốc dọc lớn, tầm nhìn hạn chế).",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000071",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000041",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+        "number": "11",
+        "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 72,
+          "type": "paragraph",
+          "text": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000042",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000073",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+        "number": "11",
+        "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000073",
+        "number": "1",
+        "heading": "1. Khi điều khiển phương tiện tham gia giao thông trên đường bộ, người lái xe, người điều khiển xe máy chuyên dùng phải giữ một khoảng cách an toàn đối với xe chạy liền trước cùng làn hoặc cùng phần đường, cùng chiều xe của mình; ở nơi có biển báo \"Cự ly tối thiểu giữa hai xe\" phải giữ khoảng cách không nhỏ hơn trị số ghi trên biển báo."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 73,
+          "type": "paragraph",
+          "text": "1. Khi điều khiển phương tiện tham gia giao thông trên đường bộ, người lái xe, người điều khiển xe máy chuyên dùng phải giữ một khoảng cách an toàn đối với xe chạy liền trước cùng làn hoặc cùng phần đường, cùng chiều xe của mình; ở nơi có biển báo \"Cự ly tối thiểu giữa hai xe\" phải giữ khoảng cách không nhỏ hơn trị số ghi trên biển báo.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000073",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000043",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000074",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+        "number": "11",
+        "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000074",
+        "number": "2",
+        "heading": "2. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường"
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000034",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000072",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường bộ"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 74,
+          "type": "paragraph",
+          "text": "2. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000074",
+          "automatic_numbering": false
+        },
+        {
+          "position": 75,
+          "type": "paragraph",
+          "text": "a) Trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau:",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000075",
+          "automatic_numbering": false
+        },
+        {
+          "position": 76,
+          "type": "paragraph",
+          "text": "Bảng 3",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000075",
+          "automatic_numbering": false
+        },
+        {
+          "position": 77,
+          "type": "table",
+          "text": "Tốc độ lưu hành (V km/h)\tKhoảng cách an toàn (m)\nV = 60\t35\n60 < V ≤ 80\t55\n80 < V ≤ 100\t70\n100 < V ≤ 120\t100",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000075",
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "Tốc độ lưu hành (V km/h)",
+              "Khoảng cách an toàn (m)"
+            ],
+            [
+              "V = 60",
+              "35"
+            ],
+            [
+              "60 < V ≤ 80",
+              "55"
+            ],
+            [
+              "80 < V ≤ 100",
+              "70"
+            ],
+            [
+              "100 < V ≤ 120",
+              "100"
+            ]
+          ]
+        },
+        {
+          "position": 78,
+          "type": "paragraph",
+          "text": "Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe, người điều khiển xe máy chuyên dùng phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000075",
+          "automatic_numbering": false
+        },
+        {
+          "position": 79,
+          "type": "paragraph",
+          "text": "b) Trong điều kiện trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a khoản này.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:point:000079",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000044",
+      "group_key": "unstructured",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": null,
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "type": "chapter",
+          "number": "III",
+          "heading": "Chương III"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "unstructured",
+      "blocks": [
+        {
+          "position": 80,
+          "type": "paragraph",
+          "text": "Chương III",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "automatic_numbering": false
+        },
+        {
+          "position": 81,
+          "type": "paragraph",
+          "text": "HIỆU LỰC THI HÀNH",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000045",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+        "number": "12",
+        "heading": "Điều 12. Hiệu lực thi hành"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "type": "chapter",
+          "number": "III",
+          "heading": "Chương III"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Hiệu lực thi hành"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 82,
+          "type": "paragraph",
+          "text": "Điều 12. Hiệu lực thi hành",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000046",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000083",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+        "number": "12",
+        "heading": "Điều 12. Hiệu lực thi hành"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000083",
+        "number": "1",
+        "heading": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2025 và thay thế Thông tư số 31/2019/TT-BGTVT ngày 29 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ, thay thế Điều 15 Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "type": "chapter",
+          "number": "III",
+          "heading": "Chương III"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Hiệu lực thi hành"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 83,
+          "type": "paragraph",
+          "text": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2025 và thay thế Thông tư số 31/2019/TT-BGTVT ngày 29 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ, thay thế Điều 15 Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000083",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "vbhn_74_2026_vbhn_tt_bxd:chunk:000047",
+      "group_key": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+      "document_id": "vbhn_74_2026_vbhn_tt_bxd",
+      "document_number": "74/2026/VBHN-TT-BXD",
+      "document_title": "Hợp nhất Thông tư quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f",
+      "article": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+        "number": "12",
+        "heading": "Điều 12. Hiệu lực thi hành"
+      },
+      "clause": {
+        "id": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+        "number": "2",
+        "heading": "2. Trường hợp các văn bản quy phạm được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng các văn bản sửa đổi, bổ sung hoặc thay thế./."
+      },
+      "parent_context": [
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:chapter:000080",
+          "type": "chapter",
+          "number": "III",
+          "heading": "Chương III"
+        },
+        {
+          "id": "vbhn_74_2026_vbhn_tt_bxd:article:000082",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Hiệu lực thi hành"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": null
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 84,
+          "type": "paragraph",
+          "text": "2. Trường hợp các văn bản quy phạm được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng các văn bản sửa đổi, bổ sung hoặc thay thế./.",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+          "automatic_numbering": false
+        },
+        {
+          "position": 85,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+          "automatic_numbering": false
+        },
+        {
+          "position": 86,
+          "type": "table",
+          "text": "\tBỘ XÂY DỰNGXÁC THỰC VĂN BẢN HỢP NHẤTHà Nội, ngày 15 tháng 9 năm 2026 \n\tKT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Anh Tuấn",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "",
+              "BỘ XÂY DỰNGXÁC THỰC VĂN BẢN HỢP NHẤTHà Nội, ngày 15 tháng 9 năm 2026 "
+            ],
+            [
+              "",
+              "KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Anh Tuấn"
+            ]
+          ]
+        },
+        {
+          "position": 87,
+          "type": "paragraph",
+          "text": " ",
+          "unit_id": "vbhn_74_2026_vbhn_tt_bxd:clause:000084",
+          "automatic_numbering": false
+        }
+      ]
+    }
+  ]
+}

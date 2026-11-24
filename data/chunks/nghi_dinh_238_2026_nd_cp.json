@@ -1,0 +1,4841 @@
+{
+  "schema_version": 1,
+  "document_id": "nghi_dinh_238_2026_nd_cp",
+  "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+  "caveats": [
+    "Phân cấp kế thừa bước 1, chưa xác minh; văn bản sửa đổi có thể nhận nhầm đoạn trích và phụ lục.",
+    "Hiệu lực từng quy định chưa được xác minh; ngày hiệu lực văn bản chỉ để tham khảo.",
+    "Ngữ cảnh cha là metadata, không thuộc danh sách khối nội dung."
+  ],
+  "chunks": [
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000001",
+      "group_key": "unstructured",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": null,
+      "clause": null,
+      "parent_context": [],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "unstructured",
+      "blocks": [
+        {
+          "position": 1,
+          "type": "table",
+          "text": "CHÍNH PHỦ________Số: 238/2026/NĐ-CP\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc______________________________________Hà Nội, ngày 26 tháng 6 năm 2026",
+          "unit_id": null,
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "CHÍNH PHỦ________Số: 238/2026/NĐ-CP",
+              "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc______________________________________Hà Nội, ngày 26 tháng 6 năm 2026"
+            ]
+          ]
+        },
+        {
+          "position": 2,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 3,
+          "type": "paragraph",
+          "text": "NGHỊ ĐỊNH",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 4,
+          "type": "paragraph",
+          "text": "Sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP ",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 5,
+          "type": "paragraph",
+          "text": "ngày 26 tháng 12 năm 2024 của Chính phủ quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 6,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 7,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 8,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 9,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Xử lý vi phạm hành chính số 15/2012/QH13 được sửa đổi, bổ sung bởi Luật số 54/2014/QH13, Luật số 18/2017/QH14, Luật số 67/2020/QH14, Luật số 09/2022/QH15, Luật số 11/2022/QH15, Luật số 56/2025/QH15, Luật số 88/2025/QH15, Luật số 116/2025/QH15, Luật số 120/2025/QH15;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 10,
+          "type": "paragraph",
+          "text": "Căn cứ Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 được sửa đổi, bổ sung bởi Luật số 118/2025/QH15;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 11,
+          "type": "paragraph",
+          "text": "Theo đề nghị của Bộ trưởng Bộ Công an;",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 12,
+          "type": "paragraph",
+          "text": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe.",
+          "unit_id": null,
+          "automatic_numbering": false
+        },
+        {
+          "position": 13,
+          "type": "paragraph",
+          "text": "Chương I",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "automatic_numbering": false
+        },
+        {
+          "position": 14,
+          "type": "paragraph",
+          "text": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "automatic_numbering": false
+        },
+        {
+          "position": 15,
+          "type": "paragraph",
+          "text": "SỐ 168/2024/NĐ-CP NGÀY 26 THÁNG 12 NĂM 2024 CỦA CHÍNH PHỦ QUY ĐỊNH XỬ PHẠT VI PHẠM HÀNH CHÍNH VỀ TRẬT TỰ, ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "automatic_numbering": false
+        },
+        {
+          "position": 16,
+          "type": "paragraph",
+          "text": "AN TOÀN GIAO THÔNG TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ; TRỪ ĐIỂM, PHỤC HỒI ĐIỂM GIẤY PHÉP LÁI XE",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000002",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000017",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+        "number": "1",
+        "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+          "type": "article",
+          "number": "1",
+          "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 17,
+          "type": "paragraph",
+          "text": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000017",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000003",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000018",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+        "number": "1",
+        "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000018",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung điểm i như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+          "type": "article",
+          "number": "1",
+          "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 18,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung điểm i như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000018",
+          "automatic_numbering": false
+        },
+        {
+          "position": 19,
+          "type": "paragraph",
+          "text": "\"i) Buộc lắp đặt thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe, thiết bị ghi nhận hình ảnh khoang chở khách, dây đai an toàn, ghế ngồi cho trẻ em mầm non, học sinh tiểu học, dụng cụ, thiết bị chuyên dùng để cứu hộ, hỗ trợ cứu hộ trên xe theo đúng quy định;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000018",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000004",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000020",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+        "number": "1",
+        "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000020",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung điểm l như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000017",
+          "type": "article",
+          "number": "1",
+          "heading": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 20,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung điểm l như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000020",
+          "automatic_numbering": false
+        },
+        {
+          "position": 21,
+          "type": "paragraph",
+          "text": "\"l) Buộc cung cấp, cập nhật, truyền dẫn, lưu trữ, quản lý thông tin, dữ liệu từ thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe, thiết bị ghi nhận hình ảnh khoang chở khách lắp trên xe ô tô theo quy định;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000020",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000005",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000022",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+        "number": "2",
+        "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+          "type": "article",
+          "number": "2",
+          "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 22,
+          "type": "paragraph",
+          "text": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000022",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000006",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000023",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+        "number": "2",
+        "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000023",
+        "number": "1",
+        "heading": "1. Bổ sung khoản 1a vào trước khoản 1 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+          "type": "article",
+          "number": "2",
+          "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 23,
+          "type": "paragraph",
+          "text": "1. Bổ sung khoản 1a vào trước khoản 1 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000023",
+          "automatic_numbering": false
+        },
+        {
+          "position": 24,
+          "type": "paragraph",
+          "text": "\"1a. Phạt cảnh cáo đối với người điều khiển xe ô tô thực hiện hành vi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe mà không sử dụng thiết bị an toàn phù hợp cho trẻ em theo quy định (trừ xe ô tô kinh doanh vận tải hành khách).\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000023",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000007",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000025",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+        "number": "2",
+        "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000025",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung điểm m khoản 3 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000022",
+          "type": "article",
+          "number": "2",
+          "heading": "Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 25,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung điểm m khoản 3 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000025",
+          "automatic_numbering": false
+        },
+        {
+          "position": 26,
+          "type": "paragraph",
+          "text": "\"m) Chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô ngồi cùng hàng ghế với người lái xe (trừ xe ô tô chỉ có một hàng ghế);\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000025",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000008",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000027",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000027",
+        "number": "3",
+        "heading": "Điều 3. Sửa đổi, bổ sung điểm b khoản 8 Điều 13"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000027",
+          "type": "article",
+          "number": "3",
+          "heading": "Điều 3. Sửa đổi, bổ sung điểm b khoản 8 Điều 13"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 27,
+          "type": "paragraph",
+          "text": "Điều 3. Sửa đổi, bổ sung điểm b khoản 8 Điều 13",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000027",
+          "automatic_numbering": false
+        },
+        {
+          "position": 28,
+          "type": "paragraph",
+          "text": "\"b) Điều khiển xe không gắn đủ biển số hoặc gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe; sử dụng chất liệu, vật liệu, thiết bị làm thay đổi khả năng nhận diện thông tin biển số xe của phương tiện, thiết bị kỹ thuật nghiệp vụ (kể cả rơ moóc và sơ mi rơ moóc).\". ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000027",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000009",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000029",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000029",
+        "number": "4",
+        "heading": "Điều 4. Sửa đổi, bổ sung điểm b khoản 3 Điều 14"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000029",
+          "type": "article",
+          "number": "4",
+          "heading": "Điều 4. Sửa đổi, bổ sung điểm b khoản 3 Điều 14"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 29,
+          "type": "paragraph",
+          "text": "Điều 4. Sửa đổi, bổ sung điểm b khoản 3 Điều 14",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000029",
+          "automatic_numbering": false
+        },
+        {
+          "position": 30,
+          "type": "paragraph",
+          "text": "\"b) Điều khiển xe gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe; sử dụng chất liệu, vật liệu, thiết bị làm thay đổi khả năng nhận diện thông tin biển số xe của phương tiện, thiết bị kỹ thuật nghiệp vụ.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000029",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000010",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000031",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000031",
+        "number": "5",
+        "heading": "Điều 5. Sửa đổi, bổ sung điểm a khoản 2 Điều 17"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000031",
+          "type": "article",
+          "number": "5",
+          "heading": "Điều 5. Sửa đổi, bổ sung điểm a khoản 2 Điều 17"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 31,
+          "type": "paragraph",
+          "text": "Điều 5. Sửa đổi, bổ sung điểm a khoản 2 Điều 17",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000031",
+          "automatic_numbering": false
+        },
+        {
+          "position": 32,
+          "type": "paragraph",
+          "text": "\"a) Chở vật liệu xây dựng, đất đá, phế thải, hàng rời mà không che đậy; làm rơi vãi hàng hóa, vật liệu xây dựng, đất đá, phế thải, bùn, hàng rời xuống đường; chở hàng hoặc chất thải để nước chảy xuống đường;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000031",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000011",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000033",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000033",
+        "number": "6",
+        "heading": "Điều 6. Sửa đổi bổ sung điểm a khoản 4 Điều 18"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000033",
+          "type": "article",
+          "number": "6",
+          "heading": "Điều 6. Sửa đổi bổ sung điểm a khoản 4 Điều 18"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 33,
+          "type": "paragraph",
+          "text": "Điều 6. Sửa đổi bổ sung điểm a khoản 4 Điều 18",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000033",
+          "automatic_numbering": false
+        },
+        {
+          "position": 34,
+          "type": "paragraph",
+          "text": "\"a) Người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô và các loại xe tương tự xe mô tô;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000033",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000012",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000035",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+        "number": "7",
+        "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 35,
+          "type": "paragraph",
+          "text": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000013",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000036",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+        "number": "7",
+        "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000036",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung một số điểm của khoản 5 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 36,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung một số điểm của khoản 5 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000036",
+          "automatic_numbering": false
+        },
+        {
+          "position": 37,
+          "type": "paragraph",
+          "text": "a) Sửa đổi, bổ sung điểm đ như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000037",
+          "automatic_numbering": false
+        },
+        {
+          "position": 38,
+          "type": "paragraph",
+          "text": "\"đ) Điều khiển xe vận tải hành khách theo hợp đồng sử dụng hợp đồng bằng văn bản giấy mà không có hợp đồng vận tải, danh sách hành khách theo quy định; có hợp đồng vận tải nhưng không đúng theo quy định; đón khách, chở người không có tên trong danh sách hành khách theo hợp đồng đã ký;\";",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000037",
+          "automatic_numbering": false
+        },
+        {
+          "position": 39,
+          "type": "paragraph",
+          "text": "b) Sửa đổi, bổ sung điểm g như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000039",
+          "automatic_numbering": false
+        },
+        {
+          "position": 40,
+          "type": "paragraph",
+          "text": "\"g) Điều khiển xe vận chuyển hành khách theo hợp đồng mà đón, trả khách tại trụ sở chính, trụ sở chi nhánh, văn phòng đại diện hoặc tại một địa điểm cố định khác do đơn vị kinh doanh vận tải thuê, hợp tác kinh doanh, trên các tuyến đường phố; đón, trả hành khách, cán bộ, công chức, viên chức, công nhân không đúng địa điểm được ghi trong hợp đồng vận tải đã ký, trừ hành vi vi phạm quy định tại khoản 8 Điều này; vận chuyển không đúng đối tượng theo quy định (áp dụng đối với xe kinh doanh vận tải hành khách theo hợp đồng vận chuyển trẻ em mầm non, học sinh, sinh viên, cán bộ, công chức, viên chức, công nhân);\";",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000039",
+          "automatic_numbering": false
+        },
+        {
+          "position": 41,
+          "type": "paragraph",
+          "text": "c) Sửa đổi, bổ sung điểm l, điểm m như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000041",
+          "automatic_numbering": false
+        },
+        {
+          "position": 42,
+          "type": "paragraph",
+          "text": "\"l) Điều khiển xe kinh doanh vận tải hành khách, xe vận tải nội bộ không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc có lắp thiết bị ghi nhận hình ảnh người lái xe nhưng không có tác dụng trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe lắp trên xe ô tô;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000041",
+          "automatic_numbering": false
+        },
+        {
+          "position": 43,
+          "type": "paragraph",
+          "text": "m) Điều khiển xe vận tải hành khách theo hợp đồng sử dụng hợp đồng điện tử không có thiết bị do đơn vị kinh doanh vận tải cung cấp để truy cập được nội dung của hợp đồng điện tử, danh sách hành khách hoặc có thiết bị do đơn vị kinh doanh vận tải cung cấp nhưng không truy cập được nội dung của hợp đồng điện tử, danh sách hành khách; có hợp đồng điện tử nhưng không đúng theo quy định hoặc tự ý thay đổi thông tin của hợp đồng điện tử, danh sách hành khách đã ký; đón khách, chở người không có tên trong danh sách hành khách theo hợp đồng đã ký;\";",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000043",
+          "automatic_numbering": false
+        },
+        {
+          "position": 44,
+          "type": "paragraph",
+          "text": "d) Bổ sung điểm n vào sau điểm m như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000044",
+          "automatic_numbering": false
+        },
+        {
+          "position": 45,
+          "type": "paragraph",
+          "text": "\"n) Điều khiển xe ô tô kinh doanh vận tải hành khách từ 08 chỗ trở lên (không kể chỗ của người lái xe) không lắp thiết bị ghi nhận hình ảnh khoang chở khách hoặc có lắp thiết bị ghi nhận hình ảnh khoang chở khách nhưng không có tác dụng trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh khoang chở khách lắp trên xe ô tô.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000044",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000014",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000046",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+        "number": "7",
+        "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000046",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung điểm đ khoản 6 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 46,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung điểm đ khoản 6 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000046",
+          "automatic_numbering": false
+        },
+        {
+          "position": 47,
+          "type": "paragraph",
+          "text": "\"đ) Điều khiển xe kinh doanh vận tải hành khách, xe vận tải nội bộ không lắp thiết bị giám sát hành trình của xe theo quy định hoặc có lắp thiết bị giám sát hành trình của xe nhưng thiết bị không hoạt động theo quy định hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình của xe ô tô;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000046",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000015",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000048",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+        "number": "7",
+        "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000048",
+        "number": "3",
+        "heading": "3. Bổ sung khoản 8a vào sau khoản 8 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 48,
+          "type": "paragraph",
+          "text": "3. Bổ sung khoản 8a vào sau khoản 8 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000048",
+          "automatic_numbering": false
+        },
+        {
+          "position": 49,
+          "type": "paragraph",
+          "text": "\"8a. Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng đối với người điều khiển xe ô tô không kinh doanh vận tải hành khách nhưng chở người có thu tiền hoặc ký hợp đồng, nhận đặt chỗ để chở người trên xe.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000048",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000016",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000050",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+        "number": "7",
+        "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000050",
+        "number": "4",
+        "heading": "4. Sửa đổi, bổ sung điểm c khoản 10 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000035",
+          "type": "article",
+          "number": "7",
+          "heading": "Điều 7. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 50,
+          "type": "paragraph",
+          "text": "4. Sửa đổi, bổ sung điểm c khoản 10 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000050",
+          "automatic_numbering": false
+        },
+        {
+          "position": 51,
+          "type": "paragraph",
+          "text": "\"c) Thực hiện hành vi vi phạm quy định tại khoản 8, khoản 8a Điều này bị trừ điểm giấy phép lái xe 06 điểm;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000050",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000017",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000052",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+        "number": "8",
+        "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 52,
+          "type": "paragraph",
+          "text": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000018",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000053",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+        "number": "8",
+        "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000053",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung điểm b khoản 2 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 53,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung điểm b khoản 2 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000053",
+          "automatic_numbering": false
+        },
+        {
+          "position": 54,
+          "type": "paragraph",
+          "text": "\"b) Chở hàng trên nóc thùng xe; chở hàng vượt quá bề rộng thùng xe (kể cả bề rộng rơ moóc và sơ mi rơ moóc); chở hàng vượt phía trước, phía sau thùng xe (kể cả rơ moóc và sơ mi rơ moóc) trên 10% chiều dài toàn bộ của xe theo thiết kế được ghi trong chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe, trừ hành vi vi phạm quy định tại điểm d khoản 8 Điều 21 Nghị định này\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000053",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000019",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000055",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+        "number": "8",
+        "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000055",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 55,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung điểm b khoản 3 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000055",
+          "automatic_numbering": false
+        },
+        {
+          "position": 56,
+          "type": "paragraph",
+          "text": "\"b) Điều khiển xe ô tô kinh doanh vận tải, xe ô tô đầu kéo, xe vận tải nội bộ không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc có lắp thiết bị ghi nhận hình ảnh người lái xe nhưng không có tác dụng trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe lắp trên xe ô tô.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000055",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000020",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000057",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+        "number": "8",
+        "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000057",
+        "number": "3",
+        "heading": "3. Sửa đổi, bổ sung điểm c khoản 5 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 57,
+          "type": "paragraph",
+          "text": "3. Sửa đổi, bổ sung điểm c khoản 5 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000057",
+          "automatic_numbering": false
+        },
+        {
+          "position": 58,
+          "type": "paragraph",
+          "text": "c) Điều khiển xe ô tô kinh doanh vận tải, xe ô tô đầu kéo, xe vận tải nội bộ không lắp thiết bị giám sát hành trình hoặc có lắp thiết bị giám sát hành trình nhưng không có tác dụng trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình lắp trên xe ô tô;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000058",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000021",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000059",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+        "number": "8",
+        "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000059",
+        "number": "4",
+        "heading": "4. Sửa đổi, bổ sung khoản 8 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000052",
+          "type": "article",
+          "number": "8",
+          "heading": "Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 59,
+          "type": "paragraph",
+          "text": "4. Sửa đổi, bổ sung khoản 8 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000059",
+          "automatic_numbering": false
+        },
+        {
+          "position": 60,
+          "type": "paragraph",
+          "text": "a) Sửa đổi, bổ sung điểm d, điểm đ như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000060",
+          "automatic_numbering": false
+        },
+        {
+          "position": 61,
+          "type": "paragraph",
+          "text": "\"d) Chở thiết bị có hình dạng thùng hoặc có hình dạng như công-ten-nơ (không phải công-ten-nơ) vượt quá chiều dài toàn bộ được ghi trong chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của rơ moóc, sơ mi rơ moóc; chở loại hàng không đúng với thông tin ghi trong chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của rơ moóc, sơ mi rơ moóc;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000060",
+          "automatic_numbering": false
+        },
+        {
+          "position": 62,
+          "type": "paragraph",
+          "text": "đ) Vận chuyển hàng trên xe không chằng buộc hoặc có chằng buộc nhưng không bảo đảm an toàn, trừ hành vi vi phạm quy định tại khoản 10 Điều này; vận chuyển hàng rời, vật liệu xây dựng trên xe mà xe không có thành thùng.\";",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000062",
+          "automatic_numbering": false
+        },
+        {
+          "position": 63,
+          "type": "paragraph",
+          "text": "b) Bổ sung điểm e vào sau điểm đ như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000063",
+          "automatic_numbering": false
+        },
+        {
+          "position": 64,
+          "type": "paragraph",
+          "text": "\"e) Điều khiển xe ô tô không kinh doanh vận tải hàng hóa nhưng chở hàng hóa trên xe có thu tiền.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000063",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000022",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000065",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+        "number": "9",
+        "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 65,
+          "type": "paragraph",
+          "text": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000065",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000023",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000066",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+        "number": "9",
+        "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000066",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung một số điểm của khoản 7 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 66,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung một số điểm của khoản 7 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000066",
+          "automatic_numbering": false
+        },
+        {
+          "position": 67,
+          "type": "paragraph",
+          "text": "a) Sửa đổi, bổ sung điểm e như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000067",
+          "automatic_numbering": false
+        },
+        {
+          "position": 68,
+          "type": "paragraph",
+          "text": "\"e) Sử dụng xe kinh doanh vận tải hành khách theo hợp đồng mà trên xe không có hợp đồng vận tải, danh sách hành khách; không có thiết bị để truy cập nội dung hợp đồng điện tử, danh sách hành khách theo quy định; có hợp đồng nhưng không đúng theo quy định; tự ý thay đổi thông tin của hợp đồng điện tử, danh sách hành khách đã ký; đón khách, chở người không có tên trong danh sách hành khách theo hợp đồng đã ký; đón, trả khách tại trụ sở chính, trụ sở chi nhánh, văn phòng đại diện hoặc tại một địa điểm cố định khác do đơn vị kinh doanh vận tải thuê, hợp tác kinh doanh, trên các tuyến đường phố; vận chuyển không đúng đối tượng theo quy định (áp dụng đối với xe kinh doanh vận tải hành khách theo hợp đồng vận chuyển trẻ em mầm non, học sinh, sinh viên, cán bộ, công chức, viên chức, công nhân);\";",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000067",
+          "automatic_numbering": false
+        },
+        {
+          "position": 69,
+          "type": "paragraph",
+          "text": "b) Bổ sung điểm k, điểm l vào sau điểm i như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000069",
+          "automatic_numbering": false
+        },
+        {
+          "position": 70,
+          "type": "paragraph",
+          "text": "\"k) Sử dụng xe ô tô kinh doanh vận tải hành khách từ 08 chỗ trở lên (không kể chỗ của người lái xe) không lắp thiết bị ghi nhận hình ảnh khoang chở khách theo quy định hoặc có lắp thiết bị ghi nhận hình ảnh khoang chở khách nhưng không ghi, không lưu trữ được dữ liệu trên xe trong quá trình xe tham gia giao thông theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh khoang chở khách trên xe ô tô;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000069",
+          "automatic_numbering": false
+        },
+        {
+          "position": 71,
+          "type": "paragraph",
+          "text": "l)  Không thực hiện việc cung cấp, cập nhật, truyền dẫn, lưu trữ, quản lý thông tin, dữ liệu thu thập từ thiết bị ghi nhận hình ảnh khoang chở khách lắp trên xe ô tô theo quy định.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000071",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000024",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000072",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+        "number": "9",
+        "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000072",
+        "number": "2",
+        "heading": "2. Bổ sung điểm d vào sau điểm c khoản 8 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 72,
+          "type": "paragraph",
+          "text": "2. Bổ sung điểm d vào sau điểm c khoản 8 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000072",
+          "automatic_numbering": false
+        },
+        {
+          "position": 73,
+          "type": "paragraph",
+          "text": "\"d) Sử dụng xe ô tô kinh doanh vận tải hành khách theo hợp đồng mà xác nhận đặt chỗ cho từng hành khách đi xe ngoài hợp đồng đã ký kết hoặc bán vé, thu tiền ngoài hợp đồng đã ký kết; ấn định hành trình, lịch trình cố định để phục vụ cho nhiều hành khách hoặc nhiều người thuê vận tải khác nhau.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000072",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000025",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000074",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+        "number": "9",
+        "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000074",
+        "number": "3",
+        "heading": "3. Sửa đổi, bổ sung điểm c, điểm d khoản 13 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000065",
+          "type": "article",
+          "number": "9",
+          "heading": "Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 26"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 74,
+          "type": "paragraph",
+          "text": "3. Sửa đổi, bổ sung điểm c, điểm d khoản 13 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000074",
+          "automatic_numbering": false
+        },
+        {
+          "position": 75,
+          "type": "paragraph",
+          "text": "\"c) Thực hiện hành vi quy định tại điểm đ, điểm e khoản 4; điểm c, điểm g, điểm k khoản 7 Điều này buộc lắp đặt thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe, thiết bị ghi nhận hình ảnh khoang chở khách, dây đai an toàn, ghế ngồi cho trẻ em mầm non, học sinh tiểu học trên xe theo đúng quy định;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000074",
+          "automatic_numbering": false
+        },
+        {
+          "position": 76,
+          "type": "paragraph",
+          "text": "d) Thực hiện hành vi quy định tại điểm a, điểm h, điểm l khoản 7; khoản 11 Điều này buộc cung cấp, cập nhật, truyền dẫn, lưu trữ, quản lý thông tin, dữ liệu thu thập từ thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe, thiết bị ghi nhận hình ảnh khoang chở khách lắp trên xe ô tô theo quy định;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000076",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000026",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000077",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+        "number": "10",
+        "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 77,
+          "type": "paragraph",
+          "text": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000077",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000027",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000078",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+        "number": "10",
+        "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000078",
+        "number": "1",
+        "heading": "1. Bổ sung khoản 3a vào sau khoản 3 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 78,
+          "type": "paragraph",
+          "text": "1. Bổ sung khoản 3a vào sau khoản 3 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000078",
+          "automatic_numbering": false
+        },
+        {
+          "position": 79,
+          "type": "paragraph",
+          "text": "\"3a. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau đây:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000078",
+          "automatic_numbering": false
+        },
+        {
+          "position": 80,
+          "type": "paragraph",
+          "text": "a) Điều khiển xe ô tô cứu hộ giao thông đường bộ chở xe được cứu hộ mà vượt quá khối lượng cho phép chuyên chở của xe cứu hộ; kéo theo xe được cứu hộ mà vượt quá khối lượng cho phép kéo theo của xe cứu hộ được ghi trong chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe; ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000080",
+          "automatic_numbering": false
+        },
+        {
+          "position": 81,
+          "type": "paragraph",
+          "text": "b) Điều khiển xe ô tô cứu hộ giao thông đường bộ kéo theo xe không đúng đối tượng được cứu hộ theo quy định tại khoản 1 Điều 54 Luật Trật tự, an toàn giao thông đường bộ.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000081",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000028",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000082",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+        "number": "10",
+        "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000082",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung khoản 4 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000077",
+          "type": "article",
+          "number": "10",
+          "heading": "Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 29 "
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 82,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung khoản 4 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000082",
+          "automatic_numbering": false
+        },
+        {
+          "position": 83,
+          "type": "paragraph",
+          "text": "\"4. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi quy định tại khoản 3, khoản 3a Điều này bị trừ điểm giấy phép lái xe 02 điểm.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000082",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000029",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000084",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 84,
+          "type": "paragraph",
+          "text": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000030",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000085",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000085",
+        "number": "1",
+        "heading": "1. Bổ sung khoản 9a vào sau khoản 9 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 85,
+          "type": "paragraph",
+          "text": "1. Bổ sung khoản 9a vào sau khoản 9 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000085",
+          "automatic_numbering": false
+        },
+        {
+          "position": 86,
+          "type": "paragraph",
+          "text": "\"9a. Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 10.000.000 đồng đến 12.000.000 đồng đối với tổ chức là chủ xe ô tô đầu kéo, xe vận tải nội bộ thực hiện một trong các hành vi vi phạm sau đây:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000085",
+          "automatic_numbering": false
+        },
+        {
+          "position": 87,
+          "type": "paragraph",
+          "text": "a) Đưa xe không lắp thiết bị giám sát hành trình của xe hoặc có lắp thiết bị giám sát hành trình nhưng không hoạt động, không đúng quy chuẩn theo quy định hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình của xe ô tô;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000087",
+          "automatic_numbering": false
+        },
+        {
+          "position": 88,
+          "type": "paragraph",
+          "text": "b) Đưa xe không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc có lắp thiết bị ghi nhận hình ảnh người lái xe nhưng không ghi, không lưu trữ được dữ liệu theo quy định hoặc làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe lắp trên xe ô tô.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000088",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000031",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000089",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000089",
+        "number": "2",
+        "heading": "2. Bổ sung điểm e vào sau điểm đ khoản 11 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 89,
+          "type": "paragraph",
+          "text": "2. Bổ sung điểm e vào sau điểm đ khoản 11 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000089",
+          "automatic_numbering": false
+        },
+        {
+          "position": 90,
+          "type": "paragraph",
+          "text": "\"e) Giao phương tiện hoặc để cho người làm công, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 8a Điều 20 của Nghị định này.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000089",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000032",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000091",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000091",
+        "number": "3",
+        "heading": "3. Bổ sung điểm e vào sau điểm đ khoản 13 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 91,
+          "type": "paragraph",
+          "text": "3. Bổ sung điểm e vào sau điểm đ khoản 13 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000091",
+          "automatic_numbering": false
+        },
+        {
+          "position": 92,
+          "type": "paragraph",
+          "text": "\"e) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c, điểm d, điểm e khoản 8 Điều 21 của Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c, điểm d, điểm e khoản 8 Điều 21 của Nghị định này.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000091",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000033",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000093",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000093",
+        "number": "4",
+        "heading": "4. Sửa đổi, bổ sung điểm l khoản 19 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 93,
+          "type": "paragraph",
+          "text": "4. Sửa đổi, bổ sung điểm l khoản 19 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000093",
+          "automatic_numbering": false
+        },
+        {
+          "position": 94,
+          "type": "paragraph",
+          "text": "\"l) Thực hiện hành vi vi phạm quy định tại điểm o khoản 7, khoản 9a Điều này buộc lắp đặt dụng cụ, thiết bị chuyên dùng để cứu hộ, hỗ trợ cứu hộ, thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe trên xe theo đúng quy định.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000093",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000034",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000095",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+        "number": "11",
+        "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000095",
+        "number": "5",
+        "heading": "5. Sửa đổi, bổ sung điểm c khoản 21 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000084",
+          "type": "article",
+          "number": "11",
+          "heading": "Điều 11. Sửa đổi, bổ sung một số điểm, khoản của Điều 32"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 95,
+          "type": "paragraph",
+          "text": "5. Sửa đổi, bổ sung điểm c khoản 21 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000095",
+          "automatic_numbering": false
+        },
+        {
+          "position": 96,
+          "type": "paragraph",
+          "text": "\"c) Thực hiện hành vi quy định tại điểm a, điểm b, điểm đ, điểm e khoản 13; điểm a, điểm b, điểm c, điểm d khoản 14; điểm a khoản 16 Điều này trong trường hợp chủ phương tiện là người trực tiếp điều khiển phương tiện còn bị trừ điểm giấy phép lái xe 04 điểm;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000095",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000035",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000097",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+        "number": "12",
+        "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 97,
+          "type": "paragraph",
+          "text": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000097",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000036",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000098",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+        "number": "12",
+        "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000098",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung điểm d khoản 2 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 98,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung điểm d khoản 2 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000098",
+          "automatic_numbering": false
+        },
+        {
+          "position": 99,
+          "type": "paragraph",
+          "text": "\"d) Điểm a, điểm b, điểm c, điểm d, điểm e khoản 1; điểm a khoản 2; điểm a, điểm b, điểm c, điểm g, điểm h, điểm i, điểm k khoản 3; điểm b, điểm d, điểm i, điểm k khoản 4; điểm đ, điểm e, điểm g, điểm h, điểm i, điểm k khoản 5;  khoản 7; khoản 8 Điều 39.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000098",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000037",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000100",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+        "number": "12",
+        "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000100",
+        "number": "2",
+        "heading": "2. Bổ sung điểm k1 vào sau điểm k khoản 4 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 100,
+          "type": "paragraph",
+          "text": "2. Bổ sung điểm k1 vào sau điểm k khoản 4 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000100",
+          "automatic_numbering": false
+        },
+        {
+          "position": 101,
+          "type": "paragraph",
+          "text": "\"k1) Điểm a, điểm b khoản 3; điểm b, điểm c, điểm d, điểm h khoản 7; điểm a, điểm c, điểm d khoản 8 Điều 32;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000100",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000038",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000102",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+        "number": "12",
+        "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000102",
+        "number": "3",
+        "heading": "3. Sửa đổi, bổ sung khoản 5 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000097",
+          "type": "article",
+          "number": "12",
+          "heading": "Điều 12. Sửa đổi, bổ sung một số điểm, khoản của Điều 41"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 102,
+          "type": "paragraph",
+          "text": "3. Sửa đổi, bổ sung khoản 5 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000102",
+          "automatic_numbering": false
+        },
+        {
+          "position": 103,
+          "type": "paragraph",
+          "text": "\"5. Cục trưởng Cục Đường bộ Việt Nam, Trưởng đoàn kiểm tra do Bộ trưởng Bộ Xây dựng thành lập, Giám đốc Sở Xây dựng, Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ Việt Nam thành lập, Giám đốc Khu Quản lý đường bộ thuộc Cục Đường bộ Việt Nam có thẩm quyền xử phạt tại các điểm, khoản, điều của Nghị định này như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000102",
+          "automatic_numbering": false
+        },
+        {
+          "position": 104,
+          "type": "paragraph",
+          "text": "a)  Khoản 1; điểm a, điểm b, điểm c, điểm d, điểm e khoản 2; khoản 3; khoản 4; khoản 5; điểm a khoản 6; điểm a, điểm d, điểm e, điểm g, điểm h, điểm i khoản 7; điểm a, điểm b, điểm d khoản 8 Điều 26; điểm a khoản 2; điểm i, điểm l khoản 7; điểm b khoản 8; điểm a, điểm d khoản 9; khoản 9a; điểm e khoản 11; điểm i khoản 14; điểm c khoản 16; điểm a, điểm b khoản 17 Điều 32 khi thực hiện công tác kiểm tra tại đơn vị vận tải, bến xe, bãi đỗ xe, trạm dừng nghỉ, đơn vị thực hiện dịch vụ hỗ trợ vận tải;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000104",
+          "automatic_numbering": false
+        },
+        {
+          "position": 105,
+          "type": "paragraph",
+          "text": "b) Khoản 1; khoản 2; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e khoản 3; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm h khoản 4; điểm a, điểm b, điểm c, điểm d khoản 5; khoản 6 Điều 39; Điều 40.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000105",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000039",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000106",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+        "number": "13",
+        "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+          "type": "article",
+          "number": "13",
+          "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 106,
+          "type": "paragraph",
+          "text": "Điều 13. Sửa đổi, bổ sung Điều 42",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000106",
+          "automatic_numbering": false
+        },
+        {
+          "position": 107,
+          "type": "paragraph",
+          "text": "\"Điều 42. Thẩm quyền xử phạt của Chủ tịch Ủy ban nhân dân các cấp ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000106",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000040",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000108",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+        "number": "13",
+        "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000108",
+        "number": "1",
+        "heading": "1. Chủ tịch Ủy ban nhân dân cấp xã có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+          "type": "article",
+          "number": "13",
+          "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 108,
+          "type": "paragraph",
+          "text": "1. Chủ tịch Ủy ban nhân dân cấp xã có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000108",
+          "automatic_numbering": false
+        },
+        {
+          "position": 109,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000109",
+          "automatic_numbering": false
+        },
+        {
+          "position": 110,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 37.500.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000110",
+          "automatic_numbering": false
+        },
+        {
+          "position": 111,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000111",
+          "automatic_numbering": false
+        },
+        {
+          "position": 112,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000112",
+          "automatic_numbering": false
+        },
+        {
+          "position": 113,
+          "type": "paragraph",
+          "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000113",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000041",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000114",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+        "number": "13",
+        "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000114",
+        "number": "2",
+        "heading": "2. Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000106",
+          "type": "article",
+          "number": "13",
+          "heading": "Điều 13. Sửa đổi, bổ sung Điều 42"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 114,
+          "type": "paragraph",
+          "text": "2. Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000114",
+          "automatic_numbering": false
+        },
+        {
+          "position": 115,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000115",
+          "automatic_numbering": false
+        },
+        {
+          "position": 116,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 75.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000116",
+          "automatic_numbering": false
+        },
+        {
+          "position": 117,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000117",
+          "automatic_numbering": false
+        },
+        {
+          "position": 118,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000118",
+          "automatic_numbering": false
+        },
+        {
+          "position": 119,
+          "type": "paragraph",
+          "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000119",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000042",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000120",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 120,
+          "type": "paragraph",
+          "text": "Điều 14. Sửa đổi, bổ sung Điều 43",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "automatic_numbering": false
+        },
+        {
+          "position": 121,
+          "type": "paragraph",
+          "text": "\"Điều 43. Thẩm quyền xử phạt của Công an nhân dân ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000043",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000122",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000122",
+        "number": "1",
+        "heading": "1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 122,
+          "type": "paragraph",
+          "text": "1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000122",
+          "automatic_numbering": false
+        },
+        {
+          "position": 123,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000123",
+          "automatic_numbering": false
+        },
+        {
+          "position": 124,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 7.500.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000124",
+          "automatic_numbering": false
+        },
+        {
+          "position": 125,
+          "type": "paragraph",
+          "text": "c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 15.000.000 đồng.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000125",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000044",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000126",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000126",
+        "number": "2",
+        "heading": "2. Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 126,
+          "type": "paragraph",
+          "text": "2. Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000126",
+          "automatic_numbering": false
+        },
+        {
+          "position": 127,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000127",
+          "automatic_numbering": false
+        },
+        {
+          "position": 128,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 15.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000128",
+          "automatic_numbering": false
+        },
+        {
+          "position": 129,
+          "type": "paragraph",
+          "text": "c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 30.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000129",
+          "automatic_numbering": false
+        },
+        {
+          "position": 130,
+          "type": "paragraph",
+          "text": "d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 (trừ điểm c khoản 3 Điều 3) của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000130",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000045",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000131",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000131",
+        "number": "3",
+        "heading": "3. Trưởng đồn Công an, Thủ trưởng đơn vị Cảnh sát cơ động cấp tiểu đoàn, Trưởng trạm, Đội trưởng có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 131,
+          "type": "paragraph",
+          "text": "3. Trưởng đồn Công an, Thủ trưởng đơn vị Cảnh sát cơ động cấp tiểu đoàn, Trưởng trạm, Đội trưởng có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000131",
+          "automatic_numbering": false
+        },
+        {
+          "position": 132,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000132",
+          "automatic_numbering": false
+        },
+        {
+          "position": 133,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 22.500.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000133",
+          "automatic_numbering": false
+        },
+        {
+          "position": 134,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000134",
+          "automatic_numbering": false
+        },
+        {
+          "position": 135,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 45.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000135",
+          "automatic_numbering": false
+        },
+        {
+          "position": 136,
+          "type": "paragraph",
+          "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 (trừ điểm c khoản 3 Điều 3) của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000136",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000046",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000137",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000137",
+        "number": "4",
+        "heading": "4. Trưởng Công an cấp xã có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 137,
+          "type": "paragraph",
+          "text": "4. Trưởng Công an cấp xã có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000137",
+          "automatic_numbering": false
+        },
+        {
+          "position": 138,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000138",
+          "automatic_numbering": false
+        },
+        {
+          "position": 139,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 37.500.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000139",
+          "automatic_numbering": false
+        },
+        {
+          "position": 140,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000140",
+          "automatic_numbering": false
+        },
+        {
+          "position": 141,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000141",
+          "automatic_numbering": false
+        },
+        {
+          "position": 142,
+          "type": "paragraph",
+          "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000142",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000047",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000143",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000143",
+        "number": "5",
+        "heading": "5. Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông gồm: Trưởng phòng Hướng dẫn tuyên truyền, điều tra, giải quyết tai nạn giao thông, Trưởng phòng Hướng dẫn, đăng ký và kiểm định phương tiện, Trưởng phòng Hướng dẫn, đào tạo, sát hạch, quản lý giấy phép của người điều khiển phương tiện giao thông, Trưởng phòng Hướng dẫn tuần tra, kiểm soát giao thông đường bộ, đường sắt, Trưởng phòng Hướng dẫn điều khiển giao thông và dẫn đoàn, Trưởng phòng Quản lý, khai thác, xử lý, vận hành dữ liệu và chuyển đổi số; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội gồm: Trưởng phòng Hướng dẫn, quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo, Trưởng phòng Hướng dẫn, quản lý các ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự và con dấu, Giám đốc Trung tâm dữ liệu quốc gia về dân cư; Thủ trưởng đơn vị Cảnh sát cơ động cấp trung đoàn; Trưởng phòng Công an cấp tỉnh gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 143,
+          "type": "paragraph",
+          "text": "5. Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông gồm: Trưởng phòng Hướng dẫn tuyên truyền, điều tra, giải quyết tai nạn giao thông, Trưởng phòng Hướng dẫn, đăng ký và kiểm định phương tiện, Trưởng phòng Hướng dẫn, đào tạo, sát hạch, quản lý giấy phép của người điều khiển phương tiện giao thông, Trưởng phòng Hướng dẫn tuần tra, kiểm soát giao thông đường bộ, đường sắt, Trưởng phòng Hướng dẫn điều khiển giao thông và dẫn đoàn, Trưởng phòng Quản lý, khai thác, xử lý, vận hành dữ liệu và chuyển đổi số; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội gồm: Trưởng phòng Hướng dẫn, quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo, Trưởng phòng Hướng dẫn, quản lý các ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự và con dấu, Giám đốc Trung tâm dữ liệu quốc gia về dân cư; Thủ trưởng đơn vị Cảnh sát cơ động cấp trung đoàn; Trưởng phòng Công an cấp tỉnh gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000143",
+          "automatic_numbering": false
+        },
+        {
+          "position": 144,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000144",
+          "automatic_numbering": false
+        },
+        {
+          "position": 145,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 60.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000145",
+          "automatic_numbering": false
+        },
+        {
+          "position": 146,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000146",
+          "automatic_numbering": false
+        },
+        {
+          "position": 147,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000147",
+          "automatic_numbering": false
+        },
+        {
+          "position": 148,
+          "type": "paragraph",
+          "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000148",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000048",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000149",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000149",
+        "number": "6",
+        "heading": "6. Giám đốc Công an cấp tỉnh có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 149,
+          "type": "paragraph",
+          "text": "6. Giám đốc Công an cấp tỉnh có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000149",
+          "automatic_numbering": false
+        },
+        {
+          "position": 150,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000150",
+          "automatic_numbering": false
+        },
+        {
+          "position": 151,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 75.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000151",
+          "automatic_numbering": false
+        },
+        {
+          "position": 152,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000152",
+          "automatic_numbering": false
+        },
+        {
+          "position": 153,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000153",
+          "automatic_numbering": false
+        },
+        {
+          "position": 154,
+          "type": "paragraph",
+          "text": "đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000154",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000049",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000155",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+        "number": "14",
+        "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000155",
+        "number": "7",
+        "heading": "7. Cục trưởng Cục Cảnh sát giao thông, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Tư lệnh Cảnh sát cơ động có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000120",
+          "type": "article",
+          "number": "14",
+          "heading": "Điều 14. Sửa đổi, bổ sung Điều 43"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 155,
+          "type": "paragraph",
+          "text": "7. Cục trưởng Cục Cảnh sát giao thông, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Tư lệnh Cảnh sát cơ động có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000155",
+          "automatic_numbering": false
+        },
+        {
+          "position": 156,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000156",
+          "automatic_numbering": false
+        },
+        {
+          "position": 157,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 75.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000157",
+          "automatic_numbering": false
+        },
+        {
+          "position": 158,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000158",
+          "automatic_numbering": false
+        },
+        {
+          "position": 159,
+          "type": "paragraph",
+          "text": "d) Tịch thu tang vật, phương tiện vi phạm hành chính;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000159",
+          "automatic_numbering": false
+        },
+        {
+          "position": 160,
+          "type": "paragraph",
+          "text": "đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000160",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000050",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000161",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+        "number": "15",
+        "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "type": "article",
+          "number": "15",
+          "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 161,
+          "type": "paragraph",
+          "text": "Điều 15. Sửa đổi, bổ sung Điều 44",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "automatic_numbering": false
+        },
+        {
+          "position": 162,
+          "type": "paragraph",
+          "text": "\"Điều 44. Thẩm quyền xử phạt của Cục trưởng Cục Đường bộ Việt Nam, Trưởng đoàn kiểm tra do Bộ trưởng Bộ Xây dựng thành lập, Giám đốc Sở Xây dựng, Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ Việt Nam thành lập và Giám đốc Khu Quản lý đường bộ thuộc Cục Đường bộ Việt Nam",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000051",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000163",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+        "number": "15",
+        "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000163",
+        "number": "1",
+        "heading": "1. Giám đốc Khu Quản lý đường bộ thuộc Cục Đường bộ Việt Nam có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "type": "article",
+          "number": "15",
+          "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 163,
+          "type": "paragraph",
+          "text": "1. Giám đốc Khu Quản lý đường bộ thuộc Cục Đường bộ Việt Nam có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000163",
+          "automatic_numbering": false
+        },
+        {
+          "position": 164,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000164",
+          "automatic_numbering": false
+        },
+        {
+          "position": 165,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 37.500.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000165",
+          "automatic_numbering": false
+        },
+        {
+          "position": 166,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000166",
+          "automatic_numbering": false
+        },
+        {
+          "position": 167,
+          "type": "paragraph",
+          "text": "d) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000167",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000052",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000168",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+        "number": "15",
+        "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000168",
+        "number": "2",
+        "heading": "2. Giám đốc Sở Xây dựng, Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ Việt Nam thành lập có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "type": "article",
+          "number": "15",
+          "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 168,
+          "type": "paragraph",
+          "text": "2. Giám đốc Sở Xây dựng, Trưởng đoàn kiểm tra do Cục trưởng Cục Đường bộ Việt Nam thành lập có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000168",
+          "automatic_numbering": false
+        },
+        {
+          "position": 169,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000169",
+          "automatic_numbering": false
+        },
+        {
+          "position": 170,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 60.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000170",
+          "automatic_numbering": false
+        },
+        {
+          "position": 171,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000171",
+          "automatic_numbering": false
+        },
+        {
+          "position": 172,
+          "type": "paragraph",
+          "text": "d) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000172",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000053",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000173",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+        "number": "15",
+        "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000173",
+        "number": "3",
+        "heading": "3. Cục trưởng Cục Đường bộ Việt Nam, Trưởng đoàn kiểm tra do Bộ trưởng Bộ Xây dựng thành lập có quyền:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000161",
+          "type": "article",
+          "number": "15",
+          "heading": "Điều 15. Sửa đổi, bổ sung Điều 44"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 173,
+          "type": "paragraph",
+          "text": "3. Cục trưởng Cục Đường bộ Việt Nam, Trưởng đoàn kiểm tra do Bộ trưởng Bộ Xây dựng thành lập có quyền:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000173",
+          "automatic_numbering": false
+        },
+        {
+          "position": 174,
+          "type": "paragraph",
+          "text": "a) Phạt cảnh cáo;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000174",
+          "automatic_numbering": false
+        },
+        {
+          "position": 175,
+          "type": "paragraph",
+          "text": "b) Phạt tiền đến 75.000.000 đồng;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000175",
+          "automatic_numbering": false
+        },
+        {
+          "position": 176,
+          "type": "paragraph",
+          "text": "c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000176",
+          "automatic_numbering": false
+        },
+        {
+          "position": 177,
+          "type": "paragraph",
+          "text": "d) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:point:000177",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000054",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000178",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000178",
+        "number": "16",
+        "heading": "Điều 16. Sửa đổi, bổ sung khoản 2 Điều 46"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000178",
+          "type": "article",
+          "number": "16",
+          "heading": "Điều 16. Sửa đổi, bổ sung khoản 2 Điều 46"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 178,
+          "type": "paragraph",
+          "text": "Điều 16. Sửa đổi, bổ sung khoản 2 Điều 46",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000178",
+          "automatic_numbering": false
+        },
+        {
+          "position": 179,
+          "type": "paragraph",
+          "text": "\"2. Công chức, viên chức đang thi hành công vụ, nhiệm vụ có thẩm quyền lập biên bản vi phạm hành chính đối với các hành vi vi phạm.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000178",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000055",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000180",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+        "number": "17",
+        "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+          "type": "article",
+          "number": "17",
+          "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 180,
+          "type": "paragraph",
+          "text": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000180",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000056",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000181",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+        "number": "17",
+        "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000181",
+        "number": "1",
+        "heading": "1. Sửa đổi, bổ sung điểm đ khoản 1 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+          "type": "article",
+          "number": "17",
+          "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 181,
+          "type": "paragraph",
+          "text": "1. Sửa đổi, bổ sung điểm đ khoản 1 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000181",
+          "automatic_numbering": false
+        },
+        {
+          "position": 182,
+          "type": "paragraph",
+          "text": "\"đ) Không trừ điểm giấy phép lái xe khi giấy phép lái xe đó đang trong thời hạn bị tước quyền sử dụng giấy phép lái xe, giấy phép lái xe quốc tế.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000181",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000057",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000183",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+        "number": "17",
+        "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000183",
+        "number": "2",
+        "heading": "2. Sửa đổi, bổ sung đoạn thứ hai điểm a khoản 3 như sau:"
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000180",
+          "type": "article",
+          "number": "17",
+          "heading": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 183,
+          "type": "paragraph",
+          "text": "2. Sửa đổi, bổ sung đoạn thứ hai điểm a khoản 3 như sau:",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000183",
+          "automatic_numbering": false
+        },
+        {
+          "position": 184,
+          "type": "paragraph",
+          "text": "\"Trường hợp Chủ tịch Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định xử phạt vi phạm hành chính đối với hành vi vi phạm có trừ điểm giấy phép lái xe thì Trưởng phòng Cảnh sát giao thông Công an cấp tỉnh có trách nhiệm cập nhật dữ liệu trừ điểm giấy phép lái xe vào Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ;\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000183",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000058",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000185",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000185",
+        "number": "18",
+        "heading": "Điều 18. Bổ sung khoản 3, khoản 4 vào sau khoản 2 Điều 53"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000185",
+          "type": "article",
+          "number": "18",
+          "heading": "Điều 18. Bổ sung khoản 3, khoản 4 vào sau khoản 2 Điều 53"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 185,
+          "type": "paragraph",
+          "text": "Điều 18. Bổ sung khoản 3, khoản 4 vào sau khoản 2 Điều 53",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000185",
+          "automatic_numbering": false
+        },
+        {
+          "position": 186,
+          "type": "paragraph",
+          "text": "\"3. Quy định xử phạt vi phạm hành chính liên quan đến thiết bị ghi nhận hình ảnh người lái xe đối với xe ô tô kinh doanh vận tải hành khách dưới 08 chỗ (không kể chỗ của người lái xe), xe ô tô kinh doanh vận tải hàng hóa (trừ xe ô tô đầu kéo), xe vận tải nội bộ tại điểm l khoản 5 Điều 20, điểm b khoản 3 Điều 21, điểm b khoản 9a Điều 32 của Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2028.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000185",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000059",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000187",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000185",
+        "number": "18",
+        "heading": "Điều 18. Bổ sung khoản 3, khoản 4 vào sau khoản 2 Điều 53"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000187",
+        "number": "4",
+        "heading": "4. Quy định xử phạt vi phạm hành chính liên quan đến thiết bị ghi nhận hình ảnh khoang chở khách tại điểm n khoản 5 Điều 20; điểm k, điểm l khoản 7 Điều 26 của Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2029 và theo quy định của pháp luật về thiết bị ghi nhận hình ảnh khoang chở khách trên phương tiện giao thông đường bộ.\"."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000185",
+          "type": "article",
+          "number": "18",
+          "heading": "Điều 18. Bổ sung khoản 3, khoản 4 vào sau khoản 2 Điều 53"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 187,
+          "type": "paragraph",
+          "text": "4. Quy định xử phạt vi phạm hành chính liên quan đến thiết bị ghi nhận hình ảnh khoang chở khách tại điểm n khoản 5 Điều 20; điểm k, điểm l khoản 7 Điều 26 của Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2029 và theo quy định của pháp luật về thiết bị ghi nhận hình ảnh khoang chở khách trên phương tiện giao thông đường bộ.\".",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000187",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000060",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000188",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 188,
+          "type": "paragraph",
+          "text": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000061",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000189",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000189",
+        "number": "1",
+        "heading": "1. Bổ sung cụm từ \", trừ hành vi vi phạm quy định tại điểm b khoản 3a Điều 29 của Nghị định này\" vào sau cụm từ \"xe được kéo khi kéo nhau\" tại điểm h khoản 3 Điều 6."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 189,
+          "type": "paragraph",
+          "text": "1. Bổ sung cụm từ \", trừ hành vi vi phạm quy định tại điểm b khoản 3a Điều 29 của Nghị định này\" vào sau cụm từ \"xe được kéo khi kéo nhau\" tại điểm h khoản 3 Điều 6.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000189",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000062",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000190",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000190",
+        "number": "2",
+        "heading": "2. Bổ sung cụm từ \"hoặc chuyển làn đường không bảo đảm khoảng cách an toàn với xe phía trước, xe phía sau, xe hai bên\" vào sau cụm từ \"chỉ được phép chuyển sang một làn đường liền kề\" tại điểm a khoản 2, điểm g khoản 5 Điều 6; điểm e khoản 1 Điều 7; điểm h khoản 6 Điều 8."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 190,
+          "type": "paragraph",
+          "text": "2. Bổ sung cụm từ \"hoặc chuyển làn đường không bảo đảm khoảng cách an toàn với xe phía trước, xe phía sau, xe hai bên\" vào sau cụm từ \"chỉ được phép chuyển sang một làn đường liền kề\" tại điểm a khoản 2, điểm g khoản 5 Điều 6; điểm e khoản 1 Điều 7; điểm h khoản 6 Điều 8.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000190",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000063",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000191",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000191",
+        "number": "3",
+        "heading": "3. Bổ sung cụm từ \"hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển\" vào sau cụm từ \"đối với loại phương tiện đang điều khiển\" tại điểm i khoản 5 Điều 6, điểm b khoản 6 Điều 7, điểm d khoản 6 Điều 8 Nghị định này."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 191,
+          "type": "paragraph",
+          "text": "3. Bổ sung cụm từ \"hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển\" vào sau cụm từ \"đối với loại phương tiện đang điều khiển\" tại điểm i khoản 5 Điều 6, điểm b khoản 6 Điều 7, điểm d khoản 6 Điều 8 Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000191",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000064",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000192",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000192",
+        "number": "4",
+        "heading": "4. Bổ sung cụm từ \"hoặc dải dừng xe khẩn cấp\" vào sau cụm từ \"làn dừng xe khẩn cấp\" tại điểm c khoản 7 Điều 6, điểm b khoản 6 Điều 8."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 192,
+          "type": "paragraph",
+          "text": "4. Bổ sung cụm từ \"hoặc dải dừng xe khẩn cấp\" vào sau cụm từ \"làn dừng xe khẩn cấp\" tại điểm c khoản 7 Điều 6, điểm b khoản 6 Điều 8.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000192",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000065",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000193",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000193",
+        "number": "5",
+        "heading": "5. Bổ sung cụm từ \"khoản 1; điểm d,\" vào trước cụm từ \"điểm đ\" tại điểm a khoản 6 Điều 14."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 193,
+          "type": "paragraph",
+          "text": "5. Bổ sung cụm từ \"khoản 1; điểm d,\" vào trước cụm từ \"điểm đ\" tại điểm a khoản 6 Điều 14.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000193",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000066",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000194",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000194",
+        "number": "6",
+        "heading": "6. Bổ sung cụm từ \", xe vận tải nội bộ\" vào sau cụm từ \"xe ô tô kinh doanh vận tải\" tại điểm d khoản 6 Điều 20, điểm b khoản 5 Điều 21."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 194,
+          "type": "paragraph",
+          "text": "6. Bổ sung cụm từ \", xe vận tải nội bộ\" vào sau cụm từ \"xe ô tô kinh doanh vận tải\" tại điểm d khoản 6 Điều 20, điểm b khoản 5 Điều 21.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000194",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000067",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000195",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000195",
+        "number": "7",
+        "heading": "7. Bổ sung cụm từ \", điểm l\" vào sau cụm từ \"điểm h\" tại khoản 11 Điều 26."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 195,
+          "type": "paragraph",
+          "text": "7. Bổ sung cụm từ \", điểm l\" vào sau cụm từ \"điểm h\" tại khoản 11 Điều 26.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000195",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000068",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000196",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000196",
+        "number": "8",
+        "heading": "8. Bổ sung cụm từ \"Điều 20 (điểm l khoản 5, điểm đ khoản 6), Điều 21 (điểm b khoản 3, điểm c khoản 5),\" vào trước cụm từ \"Điều 29\", cụm từ \"; khoản 9a\" vào sau cụm từ \"điểm n khoản 7\" tại điểm h khoản 3 Điều 47."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 196,
+          "type": "paragraph",
+          "text": "8. Bổ sung cụm từ \"Điều 20 (điểm l khoản 5, điểm đ khoản 6), Điều 21 (điểm b khoản 3, điểm c khoản 5),\" vào trước cụm từ \"Điều 29\", cụm từ \"; khoản 9a\" vào sau cụm từ \"điểm n khoản 7\" tại điểm h khoản 3 Điều 47.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000196",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000069",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000197",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000197",
+        "number": "9",
+        "heading": "9. Bổ sung cụm từ \", khoản 3, khoản 4\" vào sau cụm từ \"khoản 2\" tại khoản 1 Điều 53."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 197,
+          "type": "paragraph",
+          "text": "9. Bổ sung cụm từ \", khoản 3, khoản 4\" vào sau cụm từ \"khoản 2\" tại khoản 1 Điều 53.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000197",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000070",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000198",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000198",
+        "number": "10",
+        "heading": "10. Thay thế cụm từ \"chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy\" bằng cụm từ \"để người nằm, ngồi, đu bám bên ngoài xe khi xe đang chạy\" tại điểm p khoản 5 Điều 6."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 198,
+          "type": "paragraph",
+          "text": "10. Thay thế cụm từ \"chở người trên nóc xe; để người đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy\" bằng cụm từ \"để người nằm, ngồi, đu bám bên ngoài xe khi xe đang chạy\" tại điểm p khoản 5 Điều 6.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000198",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000071",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000199",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000199",
+        "number": "11",
+        "heading": "11. Thay thế cụm từ \"giấy chứng nhận kiểm định\" bằng cụm từ \"chứng nhận kiểm định\" tại điểm q, điểm r khoản 3 Điều 3; điểm d khoản 3, điểm b khoản 4 Điều 13; điểm c khoản 3 Điều 18; điểm a, điểm d khoản 2, điểm a, điểm d khoản 5, điểm a, điểm b khoản 6, điểm a, điểm b khoản 7, điểm a, điểm b khoản 8 Điều 21; điểm a khoản 1, khoản 3, khoản 5 Điều 26; điểm b khoản 1, điểm d khoản 11, điểm h khoản 14, điểm c, điểm d khoản 18, điểm đ, điểm g khoản 19, khoản 20 Điều 32; điểm a khoản 4 Điều 40; khoản 3 Điều 48."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 199,
+          "type": "paragraph",
+          "text": "11. Thay thế cụm từ \"giấy chứng nhận kiểm định\" bằng cụm từ \"chứng nhận kiểm định\" tại điểm q, điểm r khoản 3 Điều 3; điểm d khoản 3, điểm b khoản 4 Điều 13; điểm c khoản 3 Điều 18; điểm a, điểm d khoản 2, điểm a, điểm d khoản 5, điểm a, điểm b khoản 6, điểm a, điểm b khoản 7, điểm a, điểm b khoản 8 Điều 21; điểm a khoản 1, khoản 3, khoản 5 Điều 26; điểm b khoản 1, điểm d khoản 11, điểm h khoản 14, điểm c, điểm d khoản 18, điểm đ, điểm g khoản 19, khoản 20 Điều 32; điểm a khoản 4 Điều 40; khoản 3 Điều 48.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000199",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000072",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000200",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000200",
+        "number": "12",
+        "heading": "12. Bỏ cụm từ \"giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ  môi trường\" tại điểm b, điểm d khoản 7 Điều 32, cụm từ \"điểm e, điểm g khoản 7;\" tại điểm đ khoản 18 Điều 32."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 200,
+          "type": "paragraph",
+          "text": "12. Bỏ cụm từ \"giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ  môi trường\" tại điểm b, điểm d khoản 7 Điều 32, cụm từ \"điểm e, điểm g khoản 7;\" tại điểm đ khoản 18 Điều 32.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000200",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000073",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000201",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000201",
+        "number": "13",
+        "heading": "13. Bỏ cụm từ \"tại nơi phát hiện vi phạm\" tại điểm c khoản 5 Điều 47."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 201,
+          "type": "paragraph",
+          "text": "13. Bỏ cụm từ \"tại nơi phát hiện vi phạm\" tại điểm c khoản 5 Điều 47.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000201",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000074",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000202",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000202",
+        "number": "14",
+        "heading": "14. Bỏ cụm từ \"Điểm g khoản 5;\" tại điểm a khoản 1 Điều 48."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 202,
+          "type": "paragraph",
+          "text": "14. Bỏ cụm từ \"Điểm g khoản 5;\" tại điểm a khoản 1 Điều 48.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000202",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000075",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000203",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000203",
+        "number": "15",
+        "heading": "15. Bỏ cụm từ \"điểm m khoản 3 Điều 6,\" tại khoản 2 Điều 53."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 203,
+          "type": "paragraph",
+          "text": "15. Bỏ cụm từ \"điểm m khoản 3 Điều 6,\" tại khoản 2 Điều 53.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000203",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000076",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000204",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000204",
+        "number": "16",
+        "heading": "16. Bỏ cụm từ \"trực thuộc trung ương\" tại Điều 55."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 204,
+          "type": "paragraph",
+          "text": "16. Bỏ cụm từ \"trực thuộc trung ương\" tại Điều 55.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000204",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000077",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000205",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+        "number": "19",
+        "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000205",
+        "number": "17",
+        "heading": "17. Bãi bỏ điểm d, điểm đ, điểm e, điểm g khoản 17 Điều 32."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000013",
+          "type": "chapter",
+          "number": "I",
+          "heading": "Chương I"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000188",
+          "type": "article",
+          "number": "19",
+          "heading": "Điều 19. Bổ sung, thay thế, bãi bỏ một số cụm từ, điểm, khoản, điều"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 205,
+          "type": "paragraph",
+          "text": "17. Bãi bỏ điểm d, điểm đ, điểm e, điểm g khoản 17 Điều 32.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000205",
+          "automatic_numbering": false
+        },
+        {
+          "position": 206,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000205",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000078",
+      "group_key": "unstructured",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": null,
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "unstructured",
+      "blocks": [
+        {
+          "position": 207,
+          "type": "paragraph",
+          "text": "Chương II",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "automatic_numbering": false
+        },
+        {
+          "position": 208,
+          "type": "paragraph",
+          "text": "ĐIỀU KHOẢN THI HÀNH",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "automatic_numbering": false
+        },
+        {
+          "position": 209,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000079",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000210",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+        "number": "20",
+        "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+          "type": "article",
+          "number": "20",
+          "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 210,
+          "type": "paragraph",
+          "text": "\tĐiều 20. Hiệu lực thi hành\t",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000210",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000080",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000211",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+        "number": "20",
+        "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000211",
+        "number": "1",
+        "heading": "1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+          "type": "article",
+          "number": "20",
+          "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 211,
+          "type": "paragraph",
+          "text": "1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000211",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000081",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000212",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+        "number": "20",
+        "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000212",
+        "number": "2",
+        "heading": "2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+          "type": "article",
+          "number": "20",
+          "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 212,
+          "type": "paragraph",
+          "text": "2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000212",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000082",
+      "group_key": "nghi_dinh_238_2026_nd_cp:clause:000213",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+        "number": "20",
+        "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+      },
+      "clause": {
+        "id": "nghi_dinh_238_2026_nd_cp:clause:000213",
+        "number": "3",
+        "heading": "3. Bộ Công an chủ trì, phối hợp với các bộ, ngành liên quan chịu trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này."
+      },
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000210",
+          "type": "article",
+          "number": "20",
+          "heading": "\tĐiều 20. Hiệu lực thi hành\t"
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 213,
+          "type": "paragraph",
+          "text": "3. Bộ Công an chủ trì, phối hợp với các bộ, ngành liên quan chịu trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:clause:000213",
+          "automatic_numbering": false
+        }
+      ]
+    },
+    {
+      "id": "nghi_dinh_238_2026_nd_cp:chunk:000083",
+      "group_key": "nghi_dinh_238_2026_nd_cp:article:000214",
+      "document_id": "nghi_dinh_238_2026_nd_cp",
+      "document_number": "238/2026/NĐ-CP",
+      "document_title": "Sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP",
+      "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a",
+      "article": {
+        "id": "nghi_dinh_238_2026_nd_cp:article:000214",
+        "number": "21",
+        "heading": "Điều 21. Điều khoản chuyển tiếp "
+      },
+      "clause": null,
+      "parent_context": [
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:chapter:000207",
+          "type": "chapter",
+          "number": "II",
+          "heading": "Chương II"
+        },
+        {
+          "id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "type": "article",
+          "number": "21",
+          "heading": "Điều 21. Điều khoản chuyển tiếp "
+        }
+      ],
+      "effective": {
+        "valid_from": null,
+        "valid_until_exclusive": null,
+        "status": "unverified",
+        "document_effective_date": "2026-08-15"
+      },
+      "classification": "provisional_article_or_clause",
+      "blocks": [
+        {
+          "position": 214,
+          "type": "paragraph",
+          "text": "Điều 21. Điều khoản chuyển tiếp ",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false
+        },
+        {
+          "position": 215,
+          "type": "paragraph",
+          "text": "Trường hợp hành vi vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ xảy ra và kết thúc trước ngày Nghị định này có hiệu lực thi hành sau đó mới bị phát hiện hoặc đang xem xét giải quyết thì áp dụng nghị định đang có hiệu lực tại thời điểm thực hiện hành vi vi phạm để xử phạt.",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false
+        },
+        {
+          "position": 216,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false
+        },
+        {
+          "position": 217,
+          "type": "table",
+          "text": "\tTM. CHÍNH PHỦKT. THỦ TƯỚNGPHÓ THỦ TƯỚNGdaky]Phạm Gia Túc",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false,
+          "rows": [
+            [
+              "",
+              "TM. CHÍNH PHỦKT. THỦ TƯỚNGPHÓ THỦ TƯỚNGdaky]Phạm Gia Túc"
+            ]
+          ]
+        },
+        {
+          "position": 218,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false
+        },
+        {
+          "position": 219,
+          "type": "paragraph",
+          "text": "",
+          "unit_id": "nghi_dinh_238_2026_nd_cp:article:000214",
+          "automatic_numbering": false
+        }
+      ]
+    }
+  ]
+}

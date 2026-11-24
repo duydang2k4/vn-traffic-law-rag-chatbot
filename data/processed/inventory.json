@@ -1,0 +1,92 @@
+[
+  {
+    "file": "nghi_dinh_151_2024_nd_cp_da_sua.docx",
+    "blocks": 840,
+    "tables": 38,
+    "automatic_numbering_paragraphs": 0,
+    "units": 418,
+    "articles": 38,
+    "source_sha256": "09d0881050a41c28072199fa3f8d8eed3f80036a47e124fc63187dcf1804e178"
+  },
+  {
+    "file": "nghi_dinh_168_2024_nd_cp.docx",
+    "blocks": 1370,
+    "tables": 2,
+    "automatic_numbering_paragraphs": 0,
+    "units": 1309,
+    "articles": 55,
+    "source_sha256": "4283ae5b2ebbc98b689924f9165881c019d546a4b3a965f0e213dfc98499d161"
+  },
+  {
+    "file": "nghi_dinh_236_2026_nd_cp.docx",
+    "blocks": 576,
+    "tables": 34,
+    "automatic_numbering_paragraphs": 0,
+    "units": 159,
+    "articles": 19,
+    "source_sha256": "cd1ff2f18d8e6082f7e99d65fec84b2f6eb174a78cecd644b26194c950c0e610"
+  },
+  {
+    "file": "nghi_dinh_238_2026_nd_cp.docx",
+    "blocks": 219,
+    "tables": 2,
+    "automatic_numbering_paragraphs": 0,
+    "units": 156,
+    "articles": 21,
+    "source_sha256": "e103437f9b4489db2b55ea005365c430c9b2711f5ae4bf2bab5c87de6f6c479a"
+  },
+  {
+    "file": "nghi_dinh_94_2026_nd_cp.docx",
+    "blocks": 397,
+    "tables": 2,
+    "automatic_numbering_paragraphs": 0,
+    "units": 341,
+    "articles": 43,
+    "source_sha256": "d3ae43f95ee38c4d97733111fbf4a332cebd151d0407b783d58723ee323b48e1"
+  },
+  {
+    "file": "vbhn_144_2026_vbhn_lq_vpqh_da_sua.docx",
+    "blocks": 921,
+    "tables": 4,
+    "automatic_numbering_paragraphs": 0,
+    "units": 864,
+    "articles": 86,
+    "source_sha256": "f762172049037799f1bc4c11d7322f7854baac327bb0e98f8ba0db2c0a70b170"
+  },
+  {
+    "file": "vbhn_27_vbhn_bxd.docx",
+    "blocks": 1840,
+    "tables": 110,
+    "automatic_numbering_paragraphs": 44,
+    "units": 555,
+    "articles": 34,
+    "source_sha256": "f84c92343a86e4ad3a0d08da8b125ed05cf19e7f4653de48353acbf12124c9c1"
+  },
+  {
+    "file": "vbhn_55_vbhn_vpqh.docx",
+    "blocks": 1033,
+    "tables": 1,
+    "automatic_numbering_paragraphs": 0,
+    "units": 985,
+    "articles": 89,
+    "source_sha256": "cc52a6e84d6bfb5dc1a0085559194775961663472e182adb990e4902cd1f94b3"
+  },
+  {
+    "file": "vbhn_65_2026_vbhn_nd_bxd.docx",
+    "blocks": 2020,
+    "tables": 61,
+    "automatic_numbering_paragraphs": 0,
+    "units": 1014,
+    "articles": 80,
+    "source_sha256": "1a2d90e99cacf651909e29a3f17f65cf61a7f6767f36406e8791c87c41b0f559"
+  },
+  {
+    "file": "vbhn_74_2026_vbhn_tt_bxd.docx",
+    "blocks": 87,
+    "tables": 5,
+    "automatic_numbering_paragraphs": 0,
+    "units": 57,
+    "articles": 12,
+    "source_sha256": "27788734749884737540a955e5cbd612d691a2c2d6a5c6fe25f60c0e109f882f"
+  }
+]
