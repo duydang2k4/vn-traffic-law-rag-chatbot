@@ -6,7 +6,8 @@ from collections import defaultdict
 from pathlib import Path
 from tempfile import NamedTemporaryFile
 
-from parse_documents import ROOT, parse
+from scripts import ROOT
+from scripts.pipeline.parse_documents import parse
 
 
 def load(path):

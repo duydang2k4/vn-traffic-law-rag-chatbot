@@ -1,8 +1,9 @@
 """Check source hashes, block coverage, and structural references."""
 import hashlib
 import json
-from pathlib import Path
-from parse_documents import RAW, OUT, ROOT, parse
+
+from scripts import ROOT
+from scripts.pipeline.parse_documents import RAW, OUT, parse
 
 
 def read(path):

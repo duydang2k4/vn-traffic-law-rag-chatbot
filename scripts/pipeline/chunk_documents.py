@@ -1,8 +1,8 @@
 """Split the provisional parse into ordered, lossless article/clause chunks."""
 import json
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+from scripts import ROOT
+
 
 
 def read(path):

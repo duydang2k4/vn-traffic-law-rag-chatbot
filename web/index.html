@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102633">
+  <title>Luật Đường Bộ — Tra cứu pháp luật giao thông</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell masthead-inner">
+      <a class="brand" href="/" aria-label="Luật Đường Bộ, trang chủ">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        Luật Đường Bộ
+      </a>
+      <span class="local">Tra cứu cục bộ</span>
+    </div>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="shell hero-inner">
+        <div class="hero-copy">
+          <h1 id="hero-title">Tra cứu luật<br><em>giao thông</em></h1>
+          <p>Đặt câu hỏi về quy định giao thông và xem điều khoản, trích đoạn cùng nguồn văn bản để đối chiếu.</p>
+        </div>
+        <div class="road-art" aria-hidden="true"><div class="road"><span></span></div></div>
+      </div>
+    </section>
+    <div class="shell workspace">
+      <section class="panel search-panel" aria-labelledby="question-title">
+        <h2 id="question-title">Bạn muốn tra cứu gì?</h2>
+        <form id="ask-form">
+          <label class="visually-hidden" for="question">Câu hỏi về luật giao thông</label>
+          <textarea id="question" name="question" rows="3" maxlength="1000" required placeholder="Ví dụ: Thế nào là đường đôi?"></textarea>
+          <div class="form-footer">
+            <span class="hint">Nêu rõ hành vi, loại xe hoặc số điều nếu biết.</span>
+            <button class="submit" type="submit">Tra cứu</button>
+          </div>
+        </form>
+        <p id="status" role="status"></p>
+        <section class="result" id="result" aria-labelledby="result-title" hidden>
+          <h2 id="result-title">Kết quả tra cứu</h2>
+          <p id="answer"></p>
+          <p class="hint" id="notice"></p>
+          <div id="sources"></div>
+        </section>
+      </section>
+      <aside class="panel suggestions" aria-labelledby="suggestions-title">
+        <h2 id="suggestions-title">Câu hỏi gợi ý</h2>
+        <div class="example-list">
+          <button type="button" class="example"><span class="topic">XỬ PHẠT</span><span>Xe máy vượt đèn đỏ bị phạt bao nhiêu?</span></button>
+          <button type="button" class="example"><span class="topic">QUY TẮC GIAO THÔNG</span><span>Phải nhường đường tại nơi đường giao nhau như thế nào?</span></button>
+          <button type="button" class="example"><span class="topic">THUẬT NGỮ</span><span>Thế nào là đường đôi?</span></button>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <footer class="shell footer">Đối chiếu văn bản gốc và thời điểm áp dụng trước khi sử dụng kết quả.</footer>
+</body>
+</html>

@@ -1,7 +1,7 @@
 """Regression checks against the reviewed local editions."""
 import unittest
 
-from consolidate_documents import RULES, checked_input, consolidate
+from scripts.pipeline.consolidate_documents import RULES, checked_input, consolidate
 
 
 class ConsolidationTests(unittest.TestCase):

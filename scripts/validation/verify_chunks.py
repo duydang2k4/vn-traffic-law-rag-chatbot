@@ -1,5 +1,6 @@
 """Verify chunk files against the independently loaded parsed source blocks."""
-from chunk_documents import ROOT, read
+from scripts import ROOT
+from scripts.pipeline.chunk_documents import read
 
 
 def main():

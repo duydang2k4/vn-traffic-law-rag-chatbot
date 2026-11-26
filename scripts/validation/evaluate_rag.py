@@ -2,8 +2,8 @@
 import sqlite3
 import sys
 
-from baseline_rag import answer
-from rag_index import INDEX, fingerprint
+from scripts.rag.baseline_rag import answer
+from scripts.rag.rag_index import INDEX, fingerprint
 
 # Gold document/article/clause/point, assigned from headings and the edited provisions.
 # Empty components leave that level unrestricted.
@@ -37,7 +37,7 @@ CONTROLS = [
 
 
 def main():
-    from baseline_rag import retrieve
+    from scripts.rag.baseline_rag import retrieve
     if not INDEX.is_file():
         sys.exit('Build the index first')
     db = sqlite3.connect(INDEX)

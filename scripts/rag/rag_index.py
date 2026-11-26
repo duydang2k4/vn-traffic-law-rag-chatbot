@@ -8,8 +8,9 @@ import tempfile
 import unicodedata
 from pathlib import Path
 
-from chunk_documents import ROOT, read
-from consolidate_documents import consolidate
+from scripts import ROOT
+from scripts.pipeline.chunk_documents import read
+from scripts.pipeline.consolidate_documents import consolidate
 
 INDEX = ROOT / 'data/rag/baseline.sqlite3'
 REGISTRY = ROOT / 'registry/document_registry.json'

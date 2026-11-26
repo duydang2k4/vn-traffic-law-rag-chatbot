@@ -3,3 +3,6 @@ data/rag/
 .env
 .venv/
 context/
+
+__pycache__/
+*.py[cod]

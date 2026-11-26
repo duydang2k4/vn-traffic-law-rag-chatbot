@@ -3,10 +3,10 @@ import hashlib
 import json
 import re
 import zipfile
-from pathlib import Path
 from xml.etree import ElementTree as ET
 
-ROOT = Path(__file__).resolve().parents[1]
+from scripts import ROOT
+
 RAW = ROOT / 'data' / 'raw'
 OUT = ROOT / 'data' / 'processed'
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
